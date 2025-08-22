@@ -1,0 +1,7230 @@
+[
+  {
+    "nome": "Robert Schweppe (Zas)",
+    "foto": "https://avatars.githubusercontent.com/zastrich",
+    "cargo": "Coordenador de tecnologia - Desenvolvedor Fullstack - Especialista em Front",
+    "empresa": "",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Node.js",
+      "GraphQL",
+      "PHP",
+      "Machine Learning",
+      "AWS",
+      "Design System",
+      "JavaScript"
+    ],
+    "softskills": [
+      "Liderança de equipe",
+      "Comunicação clara",
+      "Mentoria",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Strides Tech Community",
+      "Tech Manager de Resultados",
+      "Reactivando",
+      "Rocketseat",
+      "Unifecaf"
+    ],
+    "local": {
+      "cidade": "Curitiba",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/zastrich",
+      "github": "https://github.com/zastrich",
+      "portfolio": "https://code200.com.br"
+    }
+  },
+  {
+    "nome": "Bernardo Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1001?v=4",
+    "cargo": "Presidente da República",
+    "empresa": "Ramos - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PyTorch",
+      "JavaScript",
+      "PostgreSQL",
+      "CI/CD",
+      "Java",
+      "Spring Boot"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Resolução de problemas",
+      "Comunicação",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "React Community",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "da Rocha Verde",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/bernardoalmeida",
+      "github": "https://github.com/bernardo1",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Stephany Araújo",
+    "foto": "https://avatars.githubusercontent.com/u/1002?v=4",
+    "cargo": "Corregedor de justiça",
+    "empresa": "Azevedo",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PyTorch",
+      "Node.js",
+      "GCP",
+      "TypeScript",
+      ".NET",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Empatia",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "DevOps Community",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "da Luz da Mata",
+      "estado": "RO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/stephanyaraújo",
+      "github": "https://github.com/stephany2",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dra. Maria Cecília Rocha",
+    "foto": "https://avatars.githubusercontent.com/u/1003?v=4",
+    "cargo": "Levantador de peso",
+    "empresa": "Nascimento Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TensorFlow",
+      ".NET",
+      "AWS",
+      "Spring Boot",
+      "CI/CD",
+      "Vue.js",
+      "Kubernetes",
+      "React"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Trabalho em equipe",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "DevOps Community",
+      "Tech Manager de Resultados",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Moreira",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dra.mariacecíliarocha",
+      "github": "https://github.com/dra.3",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Mariana Gomes",
+    "foto": "https://avatars.githubusercontent.com/u/1004?v=4",
+    "cargo": "Tecnólogo em irrigação e drenagem",
+    "empresa": "Cardoso Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Angular",
+      "CI/CD",
+      "PyTorch",
+      "Flutter",
+      "PHP",
+      "JavaScript"
+    ],
+    "softskills": [
+      "Organização",
+      "Pensamento crítico",
+      "Empatia",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "Rocketseat",
+      "AI Brasil",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "Monteiro",
+      "estado": "AL"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/marianagomes",
+      "github": "https://github.com/mariana4",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Srta. Maria Cecília Teixeira",
+    "foto": "https://avatars.githubusercontent.com/u/1005?v=4",
+    "cargo": "Antropólogo",
+    "empresa": "Oliveira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kotlin",
+      "GraphQL",
+      "PyTorch",
+      ".NET",
+      "React"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "da Mota",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/srta.mariacecíliateixeira",
+      "github": "https://github.com/srta.5",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "João Felipe Cunha",
+    "foto": "https://avatars.githubusercontent.com/u/1006?v=4",
+    "cargo": "Tecnólogo em rochas ornamentais",
+    "empresa": "Moreira Silveira e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Laravel",
+      "Kubernetes",
+      "Kotlin",
+      "Node.js",
+      "Java",
+      "JavaScript",
+      ".NET",
+      "CI/CD"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Visão estratégica",
+      "Empatia",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "DevOps Community",
+      "UX/UI Brasil",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Sales do Amparo",
+      "estado": "MG"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/joãofelipecunha",
+      "github": "https://github.com/joão6",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Alícia Azevedo",
+    "foto": "https://avatars.githubusercontent.com/u/1007?v=4",
+    "cargo": "Engenheiro químico",
+    "empresa": "da Rosa da Rosa - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "GraphQL",
+      "Python",
+      "Spring Boot"
+    ],
+    "softskills": [
+      "Liderança",
+      "Proatividade",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "AI Brasil",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Costela das Flores",
+      "estado": "MG"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/alíciaazevedo",
+      "github": "https://github.com/alícia7",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luna Jesus",
+    "foto": "https://avatars.githubusercontent.com/u/1008?v=4",
+    "cargo": "Marketeiro",
+    "empresa": "Rodrigues",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PostgreSQL",
+      "C#",
+      "Angular",
+      "Flutter",
+      "TensorFlow",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Tech Manager de Resultados",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Azevedo do Galho",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/lunajesus",
+      "github": "https://github.com/luna8",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "João Lucas Porto",
+    "foto": "https://avatars.githubusercontent.com/u/1009?v=4",
+    "cargo": "Optometrista",
+    "empresa": "Cardoso Gomes - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Spring Boot",
+      "Node.js",
+      "PHP",
+      "PyTorch",
+      "Flutter",
+      "TensorFlow",
+      "AWS"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Proatividade",
+      "Organização"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Barros",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/joãolucasporto",
+      "github": "https://github.com/joão9",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Natália Nunes",
+    "foto": "https://avatars.githubusercontent.com/u/1010?v=4",
+    "cargo": "Gerente de riscos em seguros",
+    "empresa": "Novaes",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Spring Boot",
+      "Kotlin",
+      "Python",
+      "C#",
+      "PyTorch",
+      "Azure"
+    ],
+    "softskills": [
+      "Liderança",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "AI Brasil",
+      "React Community",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "da Luz de Ferreira",
+      "estado": "AP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/natálianunes",
+      "github": "https://github.com/natália10",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Matheus da Rocha",
+    "foto": "https://avatars.githubusercontent.com/u/1011?v=4",
+    "cargo": "Impressor",
+    "empresa": "Moraes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "CI/CD",
+      "Python",
+      "Swift",
+      "Azure",
+      "Docker",
+      "Laravel"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Adaptabilidade",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "Cloud Native Brasil",
+      "UX/UI Brasil",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Pinto",
+      "estado": "SC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/matheusdarocha",
+      "github": "https://github.com/matheus11",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Alice Pires",
+    "foto": "https://avatars.githubusercontent.com/u/1012?v=4",
+    "cargo": "Costureira",
+    "empresa": "da Conceição",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Ruby on Rails",
+      "Spring Boot",
+      "Docker",
+      "CI/CD",
+      "Azure",
+      "C#"
+    ],
+    "softskills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Visão estratégica",
+      "Criatividade",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "da Rocha",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/alicepires",
+      "github": "https://github.com/alice12",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sr. Otávio Fogaça",
+    "foto": "https://avatars.githubusercontent.com/u/1013?v=4",
+    "cargo": "Dançarino",
+    "empresa": "Martins",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Swift",
+      "Python",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Organização",
+      "Resolução de problemas",
+      "Visão estratégica",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "AI Brasil",
+      "Node.js Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Jesus de Aragão",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sr.otáviofogaça",
+      "github": "https://github.com/sr.13",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ian Peixoto",
+    "foto": "https://avatars.githubusercontent.com/u/1014?v=4",
+    "cargo": "Amolador de ferramentas",
+    "empresa": "Nogueira Viana - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "React",
+      "TypeScript",
+      "PHP",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Empatia",
+      "Liderança",
+      "Proatividade",
+      "Resolução de problemas",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Ramos da Prata",
+      "estado": "AP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ianpeixoto",
+      "github": "https://github.com/ian14",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Nicolas Farias",
+    "foto": "https://avatars.githubusercontent.com/u/1015?v=4",
+    "cargo": "Ferreiro",
+    "empresa": "Cardoso S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Angular",
+      "GCP",
+      "TypeScript",
+      "React",
+      "C#",
+      "AWS",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Comunicação",
+      "Visão estratégica",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "React Community",
+      "Open Source Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Fogaça dos Dourados",
+      "estado": "TO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/nicolasfarias",
+      "github": "https://github.com/nicolas15",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Lívia Costa",
+    "foto": "https://avatars.githubusercontent.com/u/1016?v=4",
+    "cargo": "Servente-de-obras",
+    "empresa": "Fernandes - EI",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "GCP",
+      "Swift",
+      ".NET",
+      "MongoDB",
+      "Docker",
+      "Node.js"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Pensamento crítico",
+      "Empatia",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "Data Science BR",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Freitas",
+      "estado": "PA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/líviacosta",
+      "github": "https://github.com/lívia16",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Eduarda Teixeira",
+    "foto": "https://avatars.githubusercontent.com/u/1017?v=4",
+    "cargo": "Tecnólogo em negócios imobiliários",
+    "empresa": "Castro",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "TensorFlow",
+      "PHP",
+      "Docker",
+      "Flutter",
+      "Spring Boot",
+      "React",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Tech Manager de Resultados",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Vieira do Galho",
+      "estado": "AM"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/eduardateixeira",
+      "github": "https://github.com/eduarda17",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Kaique Monteiro",
+    "foto": "https://avatars.githubusercontent.com/u/1018?v=4",
+    "cargo": "Guarda ou policial rodoviário",
+    "empresa": "Barbosa Pinto e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Spring Boot",
+      "Flutter",
+      "Azure",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Proatividade",
+      "Empatia",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Open Source Brasil",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Vieira de Araújo",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/kaiquemonteiro",
+      "github": "https://github.com/kaique18",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Breno Rodrigues",
+    "foto": "https://avatars.githubusercontent.com/u/1019?v=4",
+    "cargo": "General",
+    "empresa": "da Cruz",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PyTorch",
+      "Kotlin",
+      ".NET",
+      "PostgreSQL",
+      "Vue.js",
+      "SQL",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Liderança",
+      "Resolução de problemas",
+      "Comunicação",
+      "Visão estratégica",
+      "Empatia"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "DevOps Community",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Souza",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/brenorodrigues",
+      "github": "https://github.com/breno19",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Eduardo Barbosa",
+    "foto": "https://avatars.githubusercontent.com/u/1020?v=4",
+    "cargo": "Engenheiro físico",
+    "empresa": "Castro",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "React",
+      "TensorFlow",
+      "Swift",
+      "GCP",
+      "PostgreSQL",
+      "Azure",
+      "Kotlin"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Proatividade",
+      "Trabalho em equipe",
+      "Empatia",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "UX/UI Brasil",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "da Costa",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/eduardobarbosa",
+      "github": "https://github.com/eduardo20",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Julia Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1021?v=4",
+    "cargo": "Projetista mecânico",
+    "empresa": "Silva e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TypeScript",
+      "Angular",
+      "TensorFlow",
+      "Spring Boot",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Adaptabilidade",
+      "Resolução de problemas",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "FrontEnd Brasil",
+      "AI Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Nogueira",
+      "estado": "AM"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariajuliaalmeida",
+      "github": "https://github.com/maria21",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Davi Silveira",
+    "foto": "https://avatars.githubusercontent.com/u/1022?v=4",
+    "cargo": "Inspetor",
+    "empresa": "Moraes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "Angular",
+      "Laravel",
+      "Python",
+      "Docker",
+      "C#",
+      "Ruby on Rails"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Resolução de problemas",
+      "Criatividade",
+      "Organização",
+      "Empatia"
+    ],
+    "comunidades": [
+      "React Community",
+      "Data Science BR",
+      "Cloud Native Brasil",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Pires do Galho",
+      "estado": "PE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/davisilveira",
+      "github": "https://github.com/davi22",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dr. Rodrigo Azevedo",
+    "foto": "https://avatars.githubusercontent.com/u/1023?v=4",
+    "cargo": "Fotógrafo",
+    "empresa": "Caldeira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Vue.js",
+      "C#",
+      "Ruby on Rails",
+      "Docker",
+      "JavaScript",
+      "Laravel",
+      "GraphQL"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Comunicação",
+      "Resolução de problemas",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "AI Brasil",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Lopes",
+      "estado": "ES"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dr.rodrigoazevedo",
+      "github": "https://github.com/dr.23",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sr. Renan Barbosa",
+    "foto": "https://avatars.githubusercontent.com/u/1024?v=4",
+    "cargo": "Radiologista",
+    "empresa": "da Rocha Lima - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Angular",
+      "Spring Boot",
+      "SQL",
+      "Python"
+    ],
+    "softskills": [
+      "Empatia",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "SegInfo Brasil",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Pereira",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sr.renanbarbosa",
+      "github": "https://github.com/sr.24",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Cecília Lima",
+    "foto": "https://avatars.githubusercontent.com/u/1025?v=4",
+    "cargo": "Neurologista",
+    "empresa": "Viana",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Flutter",
+      "Ruby on Rails",
+      "Spring Boot",
+      ".NET",
+      "JavaScript"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Pensamento crítico",
+      "Organização",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "DevOps Community",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Pires de Silveira",
+      "estado": "RS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/cecílialima",
+      "github": "https://github.com/cecília25",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sra. Agatha Cavalcanti",
+    "foto": "https://avatars.githubusercontent.com/u/1026?v=4",
+    "cargo": "Engenheiro de materiais",
+    "empresa": "Freitas",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Swift",
+      "Python",
+      "Angular",
+      "JavaScript",
+      "Node.js",
+      "Spring Boot",
+      "Laravel"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Trabalho em equipe",
+      "Empatia",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Python Brasil",
+      "UX/UI Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Cavalcanti",
+      "estado": "RS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sra.agathacavalcanti",
+      "github": "https://github.com/sra.26",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Marina Duarte",
+    "foto": "https://avatars.githubusercontent.com/u/1027?v=4",
+    "cargo": "DJ",
+    "empresa": "Correia",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Angular",
+      "CI/CD",
+      "AWS",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "React Community",
+      "SegInfo Brasil",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Gomes",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/marinaduarte",
+      "github": "https://github.com/marina27",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Alexandre Sales",
+    "foto": "https://avatars.githubusercontent.com/u/1028?v=4",
+    "cargo": "Estatístico",
+    "empresa": "Nascimento",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TypeScript",
+      "PostgreSQL",
+      "GCP",
+      "GraphQL",
+      "Vue.js",
+      "TensorFlow",
+      "Docker"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "da Rocha da Mata",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/alexandresales",
+      "github": "https://github.com/alexandre28",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Eloah Carvalho",
+    "foto": "https://avatars.githubusercontent.com/u/1029?v=4",
+    "cargo": "Engenheiro de segurança do trabalho",
+    "empresa": "Azevedo",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Kubernetes",
+      "TypeScript",
+      "PostgreSQL",
+      "Azure",
+      "Vue.js",
+      "GCP",
+      "Python",
+      "C#"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Empatia",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "React Community",
+      "FrontEnd Brasil",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "da Costa de Campos",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/eloahcarvalho",
+      "github": "https://github.com/eloah29",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Esther Dias",
+    "foto": "https://avatars.githubusercontent.com/u/1030?v=4",
+    "cargo": "Técnico de som",
+    "empresa": "Gomes Farias e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Flutter",
+      "Angular",
+      "React",
+      "Laravel",
+      "TypeScript",
+      ".NET",
+      "Java"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Organização",
+      "Visão estratégica",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Pereira",
+      "estado": "PE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/estherdias",
+      "github": "https://github.com/esther30",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dra. Evelyn Correia",
+    "foto": "https://avatars.githubusercontent.com/u/1031?v=4",
+    "cargo": "Corregedor de justiça",
+    "empresa": "Monteiro",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      ".NET",
+      "PyTorch",
+      "C#",
+      "Python",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Correia do Amparo",
+      "estado": "PE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dra.evelyncorreia",
+      "github": "https://github.com/dra.31",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Levi das Neves",
+    "foto": "https://avatars.githubusercontent.com/u/1032?v=4",
+    "cargo": "Lactarista hospitalar",
+    "empresa": "Silva",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TensorFlow",
+      "SQL",
+      "Azure",
+      "Ruby on Rails",
+      "AWS",
+      "CI/CD"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Proatividade",
+      "Organização",
+      "Empatia",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "Python Brasil",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "Dias",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/levidasneves",
+      "github": "https://github.com/levi32",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Isaac Mendes",
+    "foto": "https://avatars.githubusercontent.com/u/1033?v=4",
+    "cargo": "Alergologista",
+    "empresa": "Vieira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Vue.js",
+      "Kotlin",
+      "MongoDB",
+      "Python",
+      "Swift",
+      "Angular"
+    ],
+    "softskills": [
+      "Liderança",
+      "Visão estratégica",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "Node.js Brasil",
+      "Kotlin Devs BR",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Nunes",
+      "estado": "TO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/isaacmendes",
+      "github": "https://github.com/isaac33",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Daniel da Cunha",
+    "foto": "https://avatars.githubusercontent.com/u/1034?v=4",
+    "cargo": "Sacoleira",
+    "empresa": "Campos Oliveira Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Vue.js",
+      "MongoDB",
+      "AWS",
+      "CI/CD",
+      "GraphQL"
+    ],
+    "softskills": [
+      "Empatia",
+      "Comunicação",
+      "Liderança",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "FrontEnd Brasil",
+      "Kotlin Devs BR",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Rezende",
+      "estado": "AP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/danieldacunha",
+      "github": "https://github.com/daniel34",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Fernanda Melo",
+    "foto": "https://avatars.githubusercontent.com/u/1035?v=4",
+    "cargo": "Ceramista",
+    "empresa": "da Mata Almeida - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "JavaScript",
+      "PHP",
+      "Flutter",
+      "MongoDB",
+      "PostgreSQL",
+      "React",
+      "SQL"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Liderança",
+      "Comunicação",
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Souza da Praia",
+      "estado": "AL"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariafernandamelo",
+      "github": "https://github.com/maria35",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "João Ferreira",
+    "foto": "https://avatars.githubusercontent.com/u/1036?v=4",
+    "cargo": "Desenhista",
+    "empresa": "Cavalcanti Freitas Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "CI/CD",
+      "PHP",
+      "Java",
+      "React"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Comunicação",
+      "Pensamento crítico",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Cardoso",
+      "estado": "CE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/joãoferreira",
+      "github": "https://github.com/joão36",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Júlia Moraes",
+    "foto": "https://avatars.githubusercontent.com/u/1037?v=4",
+    "cargo": "Jogador de vôlei",
+    "empresa": "das Neves Porto - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "MongoDB",
+      "PyTorch",
+      "JavaScript",
+      "GCP"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "React Community",
+      "Data Science BR",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Costa de Souza",
+      "estado": "AL"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/júliamoraes",
+      "github": "https://github.com/júlia37",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Davi Nogueira",
+    "foto": "https://avatars.githubusercontent.com/u/1038?v=4",
+    "cargo": "Argumentista",
+    "empresa": "Cunha",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Angular",
+      "Python",
+      "TensorFlow",
+      "Laravel",
+      "Ruby on Rails",
+      "PHP",
+      "Vue.js"
+    ],
+    "softskills": [
+      "Liderança",
+      "Adaptabilidade",
+      "Organização",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "DevOps Community",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Ribeiro das Pedras",
+      "estado": "RR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/davinogueira",
+      "github": "https://github.com/davi38",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Sophia Lopes",
+    "foto": "https://avatars.githubusercontent.com/u/1039?v=4",
+    "cargo": "Jardineiro",
+    "empresa": "Nascimento Rezende S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "MongoDB",
+      "TensorFlow",
+      "Swift",
+      "C#"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Proatividade",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "DevOps Community",
+      "Rocketseat",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Nogueira das Pedras",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariasophialopes",
+      "github": "https://github.com/maria39",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sr. Erick Ribeiro",
+    "foto": "https://avatars.githubusercontent.com/u/1040?v=4",
+    "cargo": "Técnico em edificações",
+    "empresa": "Moraes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "MongoDB",
+      "Swift",
+      "Python",
+      "Kotlin",
+      "SQL",
+      "TensorFlow",
+      "TypeScript",
+      "Node.js"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Proatividade",
+      "Pensamento crítico",
+      "Empatia",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "DevOps Community",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Moraes",
+      "estado": "CE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sr.erickribeiro",
+      "github": "https://github.com/sr.40",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dr. Bernardo Souza",
+    "foto": "https://avatars.githubusercontent.com/u/1041?v=4",
+    "cargo": "Profissional de rádio e tv",
+    "empresa": "Lima",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "JavaScript",
+      "Vue.js",
+      "Flutter",
+      "TypeScript",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Proatividade",
+      "Liderança",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "UX/UI Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Nunes dos Dourados",
+      "estado": "PE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dr.bernardosouza",
+      "github": "https://github.com/dr.41",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dra. Bianca Santos",
+    "foto": "https://avatars.githubusercontent.com/u/1042?v=4",
+    "cargo": "Juiz de futebol",
+    "empresa": "Costela Santos - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Java",
+      "TypeScript",
+      "Docker",
+      "Laravel",
+      "PHP",
+      "SQL"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Comunicação",
+      "Criatividade",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Data Science BR",
+      "Cloud Native Brasil",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Costa",
+      "estado": "DF"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dra.biancasantos",
+      "github": "https://github.com/dra.42",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Leandro Pereira",
+    "foto": "https://avatars.githubusercontent.com/u/1043?v=4",
+    "cargo": "Manobrista",
+    "empresa": "Ramos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PostgreSQL",
+      ".NET",
+      "Azure",
+      "Python"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Empatia",
+      "Liderança",
+      "Visão estratégica",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "Cloud Native Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Moreira de Mendes",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/leandropereira",
+      "github": "https://github.com/leandro43",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Pedro Lucas Cardoso",
+    "foto": "https://avatars.githubusercontent.com/u/1044?v=4",
+    "cargo": "Barman",
+    "empresa": "Rocha Barros S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PostgreSQL",
+      "Swift",
+      "TypeScript",
+      "Java",
+      "Kotlin",
+      "Flutter",
+      "TensorFlow",
+      "Angular"
+    ],
+    "softskills": [
+      "Liderança",
+      "Comunicação",
+      "Adaptabilidade",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "comunidades": [
+      "React Community",
+      "DevOps Community",
+      "FrontEnd Brasil",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Monteiro",
+      "estado": "ES"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/pedrolucascardoso",
+      "github": "https://github.com/pedro44",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Eduardo Moraes",
+    "foto": "https://avatars.githubusercontent.com/u/1045?v=4",
+    "cargo": "Pizzaiolo",
+    "empresa": "Fogaça",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PostgreSQL",
+      "Kotlin",
+      "Python",
+      "Flutter",
+      "Laravel",
+      "Vue.js",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Empatia",
+      "Pensamento crítico",
+      "Organização",
+      "Liderança"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "FrontEnd Brasil",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "da Cruz de Cardoso",
+      "estado": "AM"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/eduardomoraes",
+      "github": "https://github.com/eduardo45",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Mirella Ribeiro",
+    "foto": "https://avatars.githubusercontent.com/u/1046?v=4",
+    "cargo": "Meredeira",
+    "empresa": "Aragão",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TensorFlow",
+      "C#",
+      "GraphQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Java",
+      "AWS"
+    ],
+    "softskills": [
+      "Organização",
+      "Liderança",
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Gomes",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mirellaribeiro",
+      "github": "https://github.com/mirella46",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Sophia da Rosa",
+    "foto": "https://avatars.githubusercontent.com/u/1047?v=4",
+    "cargo": "Administrador público",
+    "empresa": "das Neves - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "Kubernetes",
+      "Angular",
+      "Java",
+      "JavaScript",
+      "GraphQL",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "FrontEnd Brasil",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Barbosa Verde",
+      "estado": "RO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariasophiadarosa",
+      "github": "https://github.com/maria47",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Diego da Cruz",
+    "foto": "https://avatars.githubusercontent.com/u/1048?v=4",
+    "cargo": "Neurocirurgião",
+    "empresa": "da Cruz",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PHP",
+      "Swift",
+      "GCP",
+      "TensorFlow",
+      ".NET"
+    ],
+    "softskills": [
+      "Organização",
+      "Visão estratégica",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Mendes de Fernandes",
+      "estado": "ES"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/diegodacruz",
+      "github": "https://github.com/diego48",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Yuri Pereira",
+    "foto": "https://avatars.githubusercontent.com/u/1049?v=4",
+    "cargo": "Assistente administrativo",
+    "empresa": "Ferreira",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "GCP",
+      "Spring Boot",
+      "CI/CD",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Empatia",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "React Community",
+      "Data Science BR",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "da Cunha Verde",
+      "estado": "MT"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/yuripereira",
+      "github": "https://github.com/yuri49",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luiza Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1050?v=4",
+    "cargo": "Gerente de inovações ou novos negócios",
+    "empresa": "da Mota Mendes S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Docker",
+      "Flutter",
+      "JavaScript",
+      "GCP"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Visão estratégica",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Data Science BR",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Dias da Prata",
+      "estado": "PA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/luizaalmeida",
+      "github": "https://github.com/luiza50",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ana Luiza Porto",
+    "foto": "https://avatars.githubusercontent.com/u/1051?v=4",
+    "cargo": "Médico",
+    "empresa": "Freitas S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "MongoDB",
+      "Node.js",
+      "PHP",
+      "JavaScript"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Liderança",
+      "Empatia",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "FrontEnd Brasil",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Barros do Sul",
+      "estado": "MT"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/analuizaporto",
+      "github": "https://github.com/ana51",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Breno Duarte",
+    "foto": "https://avatars.githubusercontent.com/u/1052?v=4",
+    "cargo": "Árbitro e mediador",
+    "empresa": "da Paz Sales S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Flutter",
+      "Vue.js",
+      "MongoDB",
+      ".NET",
+      "Spring Boot",
+      "Docker",
+      "CI/CD",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Proatividade",
+      "Empatia",
+      "Organização"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "DevOps Community",
+      "React Community",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Monteiro",
+      "estado": "MG"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/brenoduarte",
+      "github": "https://github.com/breno52",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dra. Maria Sophia Lopes",
+    "foto": "https://avatars.githubusercontent.com/u/1053?v=4",
+    "cargo": "Moleiro",
+    "empresa": "Gomes S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      ".NET",
+      "Ruby on Rails",
+      "CI/CD",
+      "AWS",
+      "Java",
+      "Angular",
+      "Flutter"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Comunicação",
+      "Pensamento crítico",
+      "Adaptabilidade",
+      "Organização"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "UX/UI Brasil",
+      "Rocketseat",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Martins",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dra.mariasophialopes",
+      "github": "https://github.com/dra.53",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Olivia da Mota",
+    "foto": "https://avatars.githubusercontent.com/u/1054?v=4",
+    "cargo": "Retificador",
+    "empresa": "Correia Ferreira S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      ".NET",
+      "Flutter",
+      "Java",
+      "AWS"
+    ],
+    "softskills": [
+      "Organização",
+      "Visão estratégica",
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "FrontEnd Brasil",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Cardoso de Castro",
+      "estado": "AP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/oliviadamota",
+      "github": "https://github.com/olivia54",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Bruno Nogueira",
+    "foto": "https://avatars.githubusercontent.com/u/1055?v=4",
+    "cargo": "Pianista",
+    "empresa": "Santos S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "MongoDB",
+      "GCP",
+      "Flutter",
+      "Node.js"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Visão estratégica",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "Rocketseat",
+      "Kotlin Devs BR",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Cavalcanti",
+      "estado": "TO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/brunonogueira",
+      "github": "https://github.com/bruno55",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Stephany da Cruz",
+    "foto": "https://avatars.githubusercontent.com/u/1056?v=4",
+    "cargo": "Oficial de justiça",
+    "empresa": "da Costa Moraes - EI",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "Vue.js",
+      "Laravel",
+      "AWS",
+      "PHP",
+      "TypeScript",
+      "Docker"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Adaptabilidade",
+      "Organização"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "da Cunha",
+      "estado": "PA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/stephanydacruz",
+      "github": "https://github.com/stephany56",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Felipe Nascimento",
+    "foto": "https://avatars.githubusercontent.com/u/1057?v=4",
+    "cargo": "Tapeceiro",
+    "empresa": "Gonçalves - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kubernetes",
+      "MongoDB",
+      "GCP",
+      "Vue.js",
+      "Node.js",
+      "Kotlin",
+      "AWS",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Empatia",
+      "Liderança",
+      "Pensamento crítico",
+      "Criatividade",
+      "Organização"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Monteiro",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/felipenascimento",
+      "github": "https://github.com/felipe57",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Fernanda Pinto",
+    "foto": "https://avatars.githubusercontent.com/u/1058?v=4",
+    "cargo": "Editor",
+    "empresa": "Cardoso - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Spring Boot",
+      "GraphQL",
+      "TypeScript",
+      "SQL",
+      "Swift",
+      "React"
+    ],
+    "softskills": [
+      "Organização",
+      "Proatividade",
+      "Pensamento crítico",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "Cloud Native Brasil",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Moraes de Minas",
+      "estado": "CE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/fernandapinto",
+      "github": "https://github.com/fernanda58",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ana Vieira",
+    "foto": "https://avatars.githubusercontent.com/u/1059?v=4",
+    "cargo": "Gerente de vendas",
+    "empresa": "Cardoso",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "TensorFlow",
+      "PyTorch",
+      "Kotlin",
+      "Python"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Visão estratégica",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Gomes",
+      "estado": "AM"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/anavieira",
+      "github": "https://github.com/ana59",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ian Freitas",
+    "foto": "https://avatars.githubusercontent.com/u/1060?v=4",
+    "cargo": "Intérprete",
+    "empresa": "Costela",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Kotlin",
+      "PHP",
+      "Kubernetes",
+      "Vue.js",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "FrontEnd Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Campos",
+      "estado": "DF"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ianfreitas",
+      "github": "https://github.com/ian60",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dra. Luna Moreira",
+    "foto": "https://avatars.githubusercontent.com/u/1061?v=4",
+    "cargo": "Profissional de áudio",
+    "empresa": "Viana e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "MongoDB",
+      "GraphQL",
+      "Azure",
+      "Java",
+      "TensorFlow",
+      "Node.js"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Organização",
+      "Liderança"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Santos",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dra.lunamoreira",
+      "github": "https://github.com/dra.61",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Lucas Viana",
+    "foto": "https://avatars.githubusercontent.com/u/1062?v=4",
+    "cargo": "Surfista",
+    "empresa": "Oliveira S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "GCP",
+      "Node.js",
+      "TypeScript",
+      "TensorFlow",
+      "Swift",
+      "Azure",
+      "Laravel"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Resolução de problemas",
+      "Visão estratégica",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Node.js Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Monteiro",
+      "estado": "MT"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/lucasviana",
+      "github": "https://github.com/lucas62",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Isis Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1063?v=4",
+    "cargo": "Amolador de ferramentas",
+    "empresa": "Barros",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "Kubernetes",
+      "SQL",
+      "TensorFlow",
+      "Node.js",
+      "Kotlin",
+      ".NET",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "FrontEnd Brasil",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Barbosa Verde",
+      "estado": "RR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/isisalmeida",
+      "github": "https://github.com/isis63",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Gustavo Henrique Ramos",
+    "foto": "https://avatars.githubusercontent.com/u/1064?v=4",
+    "cargo": "Cancerologista ou Oncologista",
+    "empresa": "Nunes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "Vue.js",
+      "PHP",
+      "AWS",
+      "Angular",
+      "SQL",
+      ".NET"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "React Community",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Dias Grande",
+      "estado": "ES"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/gustavohenriqueramos",
+      "github": "https://github.com/gustavo64",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Thomas Ferreira",
+    "foto": "https://avatars.githubusercontent.com/u/1065?v=4",
+    "cargo": "Surfista",
+    "empresa": "Pires e Filhos",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "GraphQL",
+      "Laravel",
+      "React",
+      "Docker",
+      "Java",
+      "AWS",
+      ".NET",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "React Community",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "da Rosa",
+      "estado": "PA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/thomasferreira",
+      "github": "https://github.com/thomas65",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Melissa Silveira",
+    "foto": "https://avatars.githubusercontent.com/u/1066?v=4",
+    "cargo": "Soldado",
+    "empresa": "Nascimento - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "MongoDB",
+      "Laravel",
+      "CI/CD",
+      "Kotlin",
+      "Spring Boot",
+      "SQL",
+      "Vue.js"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Visão estratégica",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "Rocketseat",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "da Mata de Goiás",
+      "estado": "RR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/melissasilveira",
+      "github": "https://github.com/melissa66",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Eduarda Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1067?v=4",
+    "cargo": "Vigilante noturno/diurno",
+    "empresa": "Porto",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Java",
+      "TensorFlow",
+      "CI/CD",
+      "AWS",
+      "PostgreSQL",
+      "Python",
+      "C#"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Comunicação",
+      "Pensamento crítico",
+      "Organização",
+      "Liderança"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Fogaça",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/eduardaalmeida",
+      "github": "https://github.com/eduarda67",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Nicolas Ramos",
+    "foto": "https://avatars.githubusercontent.com/u/1068?v=4",
+    "cargo": "Relações públicas",
+    "empresa": "da Cunha",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Swift",
+      "TensorFlow",
+      "AWS",
+      "Python",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Comunicação",
+      "Adaptabilidade",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Cloud Native Brasil",
+      "FrontEnd Brasil",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Melo Verde",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/nicolasramos",
+      "github": "https://github.com/nicolas68",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Cecília Barros",
+    "foto": "https://avatars.githubusercontent.com/u/1069?v=4",
+    "cargo": "Arqueólogo",
+    "empresa": "da Cruz",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TypeScript",
+      "Java",
+      "GCP",
+      "Python",
+      "Angular",
+      "Laravel"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Novaes da Praia",
+      "estado": "RR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariacecíliabarros",
+      "github": "https://github.com/maria69",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Rafael Gonçalves",
+    "foto": "https://avatars.githubusercontent.com/u/1070?v=4",
+    "cargo": "Ator",
+    "empresa": "Alves",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "Node.js",
+      "C#",
+      "MongoDB",
+      "Python",
+      "CI/CD"
+    ],
+    "softskills": [
+      "Liderança",
+      "Organização",
+      "Criatividade",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Caldeira de Gomes",
+      "estado": "PE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/rafaelgonçalves",
+      "github": "https://github.com/rafael70",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dra. Maysa Jesus",
+    "foto": "https://avatars.githubusercontent.com/u/1071?v=4",
+    "cargo": "Roteirista",
+    "empresa": "Sales",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "CI/CD",
+      "JavaScript",
+      "React",
+      "Laravel",
+      "PHP",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "Kotlin Devs BR",
+      "Tech Manager de Resultados",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Pinto da Praia",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dra.maysajesus",
+      "github": "https://github.com/dra.71",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maitê Novaes",
+    "foto": "https://avatars.githubusercontent.com/u/1072?v=4",
+    "cargo": "Remador",
+    "empresa": "Martins",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "Ruby on Rails",
+      "AWS",
+      "MongoDB",
+      "React",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Visão estratégica",
+      "Empatia",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "React Community",
+      "Data Science BR",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Silveira Alegre",
+      "estado": "TO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/maitênovaes",
+      "github": "https://github.com/maitê72",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ian Novaes",
+    "foto": "https://avatars.githubusercontent.com/u/1073?v=4",
+    "cargo": "Diretor de produção",
+    "empresa": "Teixeira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "GraphQL",
+      "React",
+      "CI/CD",
+      "TensorFlow",
+      "C#",
+      "Java"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "Pires",
+      "estado": "MA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/iannovaes",
+      "github": "https://github.com/ian73",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sra. Manuela Silva",
+    "foto": "https://avatars.githubusercontent.com/u/1074?v=4",
+    "cargo": "Penhorista",
+    "empresa": "Moreira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "PyTorch",
+      "PostgreSQL",
+      "Spring Boot",
+      "TensorFlow",
+      "Python",
+      "TypeScript"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Lopes da Serra",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sra.manuelasilva",
+      "github": "https://github.com/sra.74",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luiz Gustavo Correia",
+    "foto": "https://avatars.githubusercontent.com/u/1075?v=4",
+    "cargo": "Encanador",
+    "empresa": "Lopes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Ruby on Rails",
+      "Spring Boot",
+      "Laravel",
+      "MongoDB",
+      "Vue.js",
+      "TypeScript",
+      "GraphQL",
+      ".NET"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Organização",
+      "Resolução de problemas",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "Rocketseat",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Barros de Porto",
+      "estado": "RO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/luizgustavocorreia",
+      "github": "https://github.com/luiz75",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Davi Luiz Nunes",
+    "foto": "https://avatars.githubusercontent.com/u/1076?v=4",
+    "cargo": "Veterinário",
+    "empresa": "Ramos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PostgreSQL",
+      "CI/CD",
+      "Azure",
+      "Vue.js",
+      "React",
+      "Java"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "comunidades": [
+      "React Community",
+      "AI Brasil",
+      "Data Science BR",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Ramos",
+      "estado": "DF"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/daviluiznunes",
+      "github": "https://github.com/davi76",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Rafael Pinto",
+    "foto": "https://avatars.githubusercontent.com/u/1077?v=4",
+    "cargo": "Protesista",
+    "empresa": "da Luz Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "React",
+      "Spring Boot",
+      "Flutter",
+      "TensorFlow",
+      "PostgreSQL",
+      "Python"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "Node.js Brasil",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "Rodrigues",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/rafaelpinto",
+      "github": "https://github.com/rafael77",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Laura Santos",
+    "foto": "https://avatars.githubusercontent.com/u/1078?v=4",
+    "cargo": "Cientista político",
+    "empresa": "Freitas",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "MongoDB",
+      "GCP",
+      "GraphQL",
+      "JavaScript",
+      "Java",
+      "Node.js",
+      "Ruby on Rails",
+      "CI/CD"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Visão estratégica",
+      "Adaptabilidade",
+      "Organização"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "Cloud Native Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Freitas",
+      "estado": "AL"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/laurasantos",
+      "github": "https://github.com/laura78",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Renan Viana",
+    "foto": "https://avatars.githubusercontent.com/u/1079?v=4",
+    "cargo": "Paparazzo",
+    "empresa": "Sales",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "SQL",
+      "C#",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Visão estratégica",
+      "Adaptabilidade",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "Python Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Ribeiro de Silveira",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/renanviana",
+      "github": "https://github.com/renan79",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "João Barbosa",
+    "foto": "https://avatars.githubusercontent.com/u/1080?v=4",
+    "cargo": "Arqueólogo",
+    "empresa": "da Luz",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "CI/CD",
+      "Flutter",
+      "Node.js",
+      "Vue.js",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Node.js Brasil",
+      "Tech Manager de Resultados",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Gomes da Prata",
+      "estado": "MS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/joãobarbosa",
+      "github": "https://github.com/joão80",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ryan Araújo",
+    "foto": "https://avatars.githubusercontent.com/u/1081?v=4",
+    "cargo": "Diretor de cinema",
+    "empresa": "da Paz",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "TypeScript",
+      "JavaScript",
+      "Azure",
+      "C#"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Organização",
+      "Proatividade",
+      "Visão estratégica",
+      "Empatia"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "FrontEnd Brasil",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Nunes Paulista",
+      "estado": "DF"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ryanaraújo",
+      "github": "https://github.com/ryan81",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Thomas Martins",
+    "foto": "https://avatars.githubusercontent.com/u/1082?v=4",
+    "cargo": "Comandante",
+    "empresa": "Costela",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Python",
+      "PyTorch",
+      "GraphQL",
+      "Kotlin",
+      "Docker"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Criatividade",
+      "Liderança"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Cloud Native Brasil",
+      "Tech Manager de Resultados",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "da Cunha",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/thomasmartins",
+      "github": "https://github.com/thomas82",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Valentina Nunes",
+    "foto": "https://avatars.githubusercontent.com/u/1083?v=4",
+    "cargo": "Editor de mesa de corte",
+    "empresa": "Duarte",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "SQL",
+      "MongoDB",
+      "Swift",
+      "PyTorch",
+      "TensorFlow",
+      "Java",
+      "JavaScript",
+      "Azure"
+    ],
+    "softskills": [
+      "Liderança",
+      "Visão estratégica",
+      "Comunicação",
+      "Resolução de problemas",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "Tech Manager de Resultados",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Rodrigues do Campo",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/valentinanunes",
+      "github": "https://github.com/valentina83",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Melissa Alves",
+    "foto": "https://avatars.githubusercontent.com/u/1084?v=4",
+    "cargo": "Engenheiro elétrico",
+    "empresa": "da Conceição da Paz - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Ruby on Rails",
+      "Python",
+      "Swift",
+      "JavaScript",
+      "Kubernetes",
+      "Azure",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Fernandes",
+      "estado": "MS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/melissaalves",
+      "github": "https://github.com/melissa84",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Nicole Melo",
+    "foto": "https://avatars.githubusercontent.com/u/1085?v=4",
+    "cargo": "Apresentador",
+    "empresa": "Moura da Mata S.A.",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Vue.js",
+      "AWS",
+      "MongoDB",
+      "PostgreSQL",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Organização",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Rodrigues de Minas",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/nicolemelo",
+      "github": "https://github.com/nicole85",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Otávio Nogueira",
+    "foto": "https://avatars.githubusercontent.com/u/1086?v=4",
+    "cargo": "Presidente da República",
+    "empresa": "Ramos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Ruby on Rails",
+      "Flutter",
+      "TypeScript",
+      "MongoDB",
+      "Java",
+      "PostgreSQL",
+      "Python",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Organização",
+      "Comunicação",
+      "Adaptabilidade",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "Data Science BR",
+      "Cloud Native Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "da Paz",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/otávionogueira",
+      "github": "https://github.com/otávio86",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Giovanna Mendes",
+    "foto": "https://avatars.githubusercontent.com/u/1087?v=4",
+    "cargo": "Dedetizador",
+    "empresa": "Fogaça",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kubernetes",
+      "Flutter",
+      "GCP",
+      "Angular",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Organização",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "Kotlin Devs BR",
+      "Python Brasil",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "da Mata dos Dourados",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/giovannamendes",
+      "github": "https://github.com/giovanna87",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Rafaela Ribeiro",
+    "foto": "https://avatars.githubusercontent.com/u/1088?v=4",
+    "cargo": "Contábil",
+    "empresa": "Martins da Rosa S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "GCP",
+      "Kubernetes",
+      "GraphQL",
+      "Angular",
+      "Azure"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Empatia",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Open Source Brasil",
+      "UX/UI Brasil",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Silveira",
+      "estado": "DF"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/rafaelaribeiro",
+      "github": "https://github.com/rafaela88",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ana Beatriz Cardoso",
+    "foto": "https://avatars.githubusercontent.com/u/1089?v=4",
+    "cargo": "Agente de viagens",
+    "empresa": "Farias Castro - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "GCP",
+      "Python",
+      "Angular",
+      "Azure",
+      "Java",
+      "TypeScript"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Adaptabilidade",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Rocketseat",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "Ramos",
+      "estado": "TO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/anabeatrizcardoso",
+      "github": "https://github.com/ana89",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Lorena Rodrigues",
+    "foto": "https://avatars.githubusercontent.com/u/1090?v=4",
+    "cargo": "Ator",
+    "empresa": "da Rocha",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Vue.js",
+      "Kotlin",
+      "Spring Boot",
+      "Java"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "UX/UI Brasil",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "Carvalho de Souza",
+      "estado": "MS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/lorenarodrigues",
+      "github": "https://github.com/lorena90",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Lavínia Alves",
+    "foto": "https://avatars.githubusercontent.com/u/1091?v=4",
+    "cargo": "Polidor de produção",
+    "empresa": "Farias da Paz e Filhos",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "PostgreSQL",
+      "Ruby on Rails",
+      "Angular",
+      "Kubernetes",
+      "TypeScript",
+      "Kotlin",
+      "Python",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Empatia",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "AI Brasil",
+      "Tech Manager de Resultados",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Castro",
+      "estado": "ES"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/lavíniaalves",
+      "github": "https://github.com/lavínia91",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sr. Matheus Moreira",
+    "foto": "https://avatars.githubusercontent.com/u/1092?v=4",
+    "cargo": "Delegado",
+    "empresa": "Novaes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Angular",
+      "MongoDB",
+      ".NET",
+      "PyTorch",
+      "Swift",
+      "React",
+      "Spring Boot",
+      "AWS"
+    ],
+    "softskills": [
+      "Organização",
+      "Visão estratégica",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Vieira",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sr.matheusmoreira",
+      "github": "https://github.com/sr.92",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Vitor Hugo Nunes",
+    "foto": "https://avatars.githubusercontent.com/u/1093?v=4",
+    "cargo": "Lutador de luta livre",
+    "empresa": "da Cruz S.A.",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "TypeScript",
+      "C#",
+      "Kubernetes",
+      ".NET",
+      "Kotlin",
+      "Laravel",
+      "Angular",
+      "JavaScript"
+    ],
+    "softskills": [
+      "Empatia",
+      "Visão estratégica",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Rocketseat",
+      "Open Source Brasil",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Gonçalves",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vitorhugonunes",
+      "github": "https://github.com/vitor93",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ana Beatriz Fogaça",
+    "foto": "https://avatars.githubusercontent.com/u/1094?v=4",
+    "cargo": "Engenheiro químico",
+    "empresa": "Fernandes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Swift",
+      "PostgreSQL",
+      "Kubernetes",
+      "C#"
+    ],
+    "softskills": [
+      "Liderança",
+      "Empatia",
+      "Organização",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Kotlin Devs BR",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "Castro de Santos",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/anabeatrizfogaça",
+      "github": "https://github.com/ana94",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dra. Milena Teixeira",
+    "foto": "https://avatars.githubusercontent.com/u/1095?v=4",
+    "cargo": "Assistente de câmera",
+    "empresa": "Barros Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "CI/CD",
+      "Flutter",
+      "Java",
+      "React",
+      "TensorFlow",
+      "Kotlin"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Liderança",
+      "Organização"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Cavalcanti",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dra.milenateixeira",
+      "github": "https://github.com/dra.95",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Thales Rezende",
+    "foto": "https://avatars.githubusercontent.com/u/1096?v=4",
+    "cargo": "Guia turistico",
+    "empresa": "Cardoso",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "GraphQL",
+      "Java",
+      "Vue.js",
+      "Swift"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Visão estratégica",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Rocha",
+      "estado": "MA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/thalesrezende",
+      "github": "https://github.com/thales96",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Clara Novaes",
+    "foto": "https://avatars.githubusercontent.com/u/1097?v=4",
+    "cargo": "Ambientalista",
+    "empresa": "Pinto - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "AWS",
+      "Python",
+      "Kotlin",
+      ".NET",
+      "GraphQL",
+      "Kubernetes",
+      "Azure"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Visão estratégica",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Gonçalves da Mata",
+      "estado": "GO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariaclaranovaes",
+      "github": "https://github.com/maria97",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dr. Paulo Azevedo",
+    "foto": "https://avatars.githubusercontent.com/u/1098?v=4",
+    "cargo": "Trilheiro ou músico de cinema",
+    "empresa": "Cunha e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Node.js",
+      "SQL",
+      "Kubernetes",
+      "PostgreSQL",
+      "Python",
+      "Java"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Pensamento crítico",
+      "Criatividade",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "UX/UI Brasil",
+      "Rocketseat",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Rezende",
+      "estado": "MA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dr.pauloazevedo",
+      "github": "https://github.com/dr.98",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Vicente Castro",
+    "foto": "https://avatars.githubusercontent.com/u/1099?v=4",
+    "cargo": "Catador de material reciclável",
+    "empresa": "Costa S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "MongoDB",
+      "Spring Boot",
+      "React",
+      "AWS",
+      ".NET"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Empatia",
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Node.js Brasil",
+      "FrontEnd Brasil",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Lopes",
+      "estado": "DF"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vicentecastro",
+      "github": "https://github.com/vicente99",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Thiago Dias",
+    "foto": "https://avatars.githubusercontent.com/u/1100?v=4",
+    "cargo": "Clínico geral",
+    "empresa": "da Rocha",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      ".NET",
+      "React",
+      "Ruby on Rails",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Proatividade",
+      "Comunicação",
+      "Liderança",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "FrontEnd Brasil",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Rocha de da Cruz",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/thiagodias",
+      "github": "https://github.com/thiago100",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Alexandre Barbosa",
+    "foto": "https://avatars.githubusercontent.com/u/1101?v=4",
+    "cargo": "Timoneiro",
+    "empresa": "Mendes",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "JavaScript",
+      "MongoDB",
+      "React",
+      "PostgreSQL",
+      "PHP",
+      "Docker",
+      "CI/CD",
+      "TensorFlow"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Empatia",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "Open Source Brasil",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Freitas",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/alexandrebarbosa",
+      "github": "https://github.com/alexandre101",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Lorenzo da Rosa",
+    "foto": "https://avatars.githubusercontent.com/u/1102?v=4",
+    "cargo": "Cientista",
+    "empresa": "da Paz",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kubernetes",
+      "C#",
+      "JavaScript",
+      "Python",
+      "PostgreSQL",
+      "Spring Boot"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Visão estratégica",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "React Community",
+      "UX/UI Brasil",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "Barbosa do Norte",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/lorenzodarosa",
+      "github": "https://github.com/lorenzo102",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Larissa Nogueira",
+    "foto": "https://avatars.githubusercontent.com/u/1103?v=4",
+    "cargo": "Carpinteiro",
+    "empresa": "Costa S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "CI/CD",
+      "Angular",
+      "MongoDB",
+      "Azure",
+      "C#",
+      "Java"
+    ],
+    "softskills": [
+      "Empatia",
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "Tech Manager de Resultados",
+      "Python Brasil",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Moreira de Moreira",
+      "estado": "CE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/larissanogueira",
+      "github": "https://github.com/larissa103",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Srta. Luana Santos",
+    "foto": "https://avatars.githubusercontent.com/u/1104?v=4",
+    "cargo": "Estoquista",
+    "empresa": "Lopes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "React",
+      "MongoDB",
+      "CI/CD",
+      "Angular",
+      "Flutter"
+    ],
+    "softskills": [
+      "Organização",
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Cardoso das Pedras",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/srta.luanasantos",
+      "github": "https://github.com/srta.104",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Vitória Moreira",
+    "foto": "https://avatars.githubusercontent.com/u/1105?v=4",
+    "cargo": "Caça-talentos/Olheiro",
+    "empresa": "Castro Campos e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PostgreSQL",
+      "React",
+      "GCP",
+      "Swift"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Proatividade",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "Node.js Brasil",
+      "Cloud Native Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Gomes Grande",
+      "estado": "PA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vitóriamoreira",
+      "github": "https://github.com/vitória105",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sophia da Conceição",
+    "foto": "https://avatars.githubusercontent.com/u/1106?v=4",
+    "cargo": "Revendedor",
+    "empresa": "Cardoso - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PyTorch",
+      "MongoDB",
+      "Node.js",
+      "Kotlin",
+      "Java",
+      "CI/CD",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Empatia",
+      "Visão estratégica",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "SegInfo Brasil",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Fernandes",
+      "estado": "PB"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sophiadaconceição",
+      "github": "https://github.com/sophia106",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "João Lucas da Rosa",
+    "foto": "https://avatars.githubusercontent.com/u/1107?v=4",
+    "cargo": "Oftalmologista",
+    "empresa": "da Rosa",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Java",
+      "PHP",
+      "JavaScript",
+      ".NET",
+      "Vue.js",
+      "Laravel"
+    ],
+    "softskills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "Cloud Native Brasil",
+      "DevOps Community",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Costa do Amparo",
+      "estado": "MT"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/joãolucasdarosa",
+      "github": "https://github.com/joão107",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Davi Lucca Correia",
+    "foto": "https://avatars.githubusercontent.com/u/1108?v=4",
+    "cargo": "Consultor",
+    "empresa": "Aragão das Neves S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kubernetes",
+      ".NET",
+      "GCP",
+      "Flutter",
+      "Java",
+      "C#",
+      "Kotlin"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Criatividade",
+      "Resolução de problemas",
+      "Organização",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Moura",
+      "estado": "PI"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/daviluccacorreia",
+      "github": "https://github.com/davi108",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sr. Heitor Sales",
+    "foto": "https://avatars.githubusercontent.com/u/1109?v=4",
+    "cargo": "Astrônomo",
+    "empresa": "Caldeira e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Ruby on Rails",
+      "Laravel",
+      "GCP",
+      "Angular"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Proatividade",
+      "Criatividade",
+      "Adaptabilidade",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "AI Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Caldeira",
+      "estado": "PI"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sr.heitorsales",
+      "github": "https://github.com/sr.109",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Alexandre Oliveira",
+    "foto": "https://avatars.githubusercontent.com/u/1110?v=4",
+    "cargo": "Engenheiro mecânico",
+    "empresa": "Freitas Oliveira S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TypeScript",
+      "PostgreSQL",
+      "Python",
+      "MongoDB",
+      "Azure",
+      "Kubernetes"
+    ],
+    "softskills": [
+      "Liderança",
+      "Proatividade",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Data Science BR",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Barbosa",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/alexandreoliveira",
+      "github": "https://github.com/alexandre110",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Alexia Mendes",
+    "foto": "https://avatars.githubusercontent.com/u/1111?v=4",
+    "cargo": "Jogador de boliche",
+    "empresa": "Moraes",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "Docker",
+      "Kotlin",
+      "Kubernetes",
+      "GraphQL",
+      "Flutter"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Proatividade",
+      "Organização"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "das Neves Paulista",
+      "estado": "PA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/alexiamendes",
+      "github": "https://github.com/alexia111",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Breno Freitas",
+    "foto": "https://avatars.githubusercontent.com/u/1112?v=4",
+    "cargo": "Contador",
+    "empresa": "Pires Freitas S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Vue.js",
+      "TypeScript",
+      "Java",
+      "Node.js",
+      "GCP",
+      "Kubernetes",
+      "C#"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Liderança",
+      "Trabalho em equipe",
+      "Criatividade",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Data Science BR",
+      "Python Brasil",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Ferreira",
+      "estado": "PE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/brenofreitas",
+      "github": "https://github.com/breno112",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Vitor Correia",
+    "foto": "https://avatars.githubusercontent.com/u/1113?v=4",
+    "cargo": "Broker/Corretor da bolsa de valores",
+    "empresa": "Moura e Filhos",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "MongoDB",
+      "Laravel",
+      "Flutter",
+      "Docker",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Criatividade",
+      "Pensamento crítico",
+      "Organização"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "AI Brasil",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Gomes Verde",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vitorcorreia",
+      "github": "https://github.com/vitor113",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Emanuella Lima",
+    "foto": "https://avatars.githubusercontent.com/u/1114?v=4",
+    "cargo": "Cortador de cana-de-açucar",
+    "empresa": "da Cunha",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Docker",
+      "Laravel",
+      "TensorFlow",
+      "Flutter",
+      "Java",
+      "Swift"
+    ],
+    "softskills": [
+      "Organização",
+      "Visão estratégica",
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "SegInfo Brasil",
+      "React Community",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Souza",
+      "estado": "GO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/emanuellalima",
+      "github": "https://github.com/emanuella114",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Vitor Hugo Peixoto",
+    "foto": "https://avatars.githubusercontent.com/u/1115?v=4",
+    "cargo": "Astrofísico",
+    "empresa": "Caldeira Duarte S.A.",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Kotlin",
+      "Kubernetes",
+      "C#",
+      "Angular",
+      "Node.js",
+      "MongoDB",
+      "TypeScript"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Empatia",
+      "Liderança",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "Cardoso",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vitorhugopeixoto",
+      "github": "https://github.com/vitor115",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luiz Felipe Aragão",
+    "foto": "https://avatars.githubusercontent.com/u/1116?v=4",
+    "cargo": "Gestor ambiental",
+    "empresa": "Araújo",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Node.js",
+      "Ruby on Rails",
+      "Spring Boot",
+      "PyTorch",
+      "SQL"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Resolução de problemas",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "SegInfo Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Cardoso",
+      "estado": "MA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/luizfelipearagão",
+      "github": "https://github.com/luiz116",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Beatriz Dias",
+    "foto": "https://avatars.githubusercontent.com/u/1117?v=4",
+    "cargo": "Moleiro",
+    "empresa": "Rezende",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TensorFlow",
+      "Docker",
+      "PyTorch",
+      "Spring Boot",
+      "JavaScript",
+      ".NET",
+      "Vue.js"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Proatividade",
+      "Empatia",
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "FrontEnd Brasil",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Souza",
+      "estado": "DF"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/beatrizdias",
+      "github": "https://github.com/beatriz117",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Anthony Castro",
+    "foto": "https://avatars.githubusercontent.com/u/1118?v=4",
+    "cargo": "Engenheiro ambiental",
+    "empresa": "Pires S/A",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "PHP",
+      "C#",
+      "Ruby on Rails",
+      "TypeScript",
+      "Azure",
+      "Angular"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Organização",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Pinto de Correia",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/anthonycastro",
+      "github": "https://github.com/anthony118",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dr. Kaique Nogueira",
+    "foto": "https://avatars.githubusercontent.com/u/1119?v=4",
+    "cargo": "Psicomotricista",
+    "empresa": "Caldeira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kotlin",
+      "Ruby on Rails",
+      "Flutter",
+      "PyTorch",
+      "Spring Boot",
+      "GCP",
+      "React"
+    ],
+    "softskills": [
+      "Organização",
+      "Visão estratégica",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "React Community",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "das Neves",
+      "estado": "PI"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dr.kaiquenogueira",
+      "github": "https://github.com/dr.119",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Stephany Rodrigues",
+    "foto": "https://avatars.githubusercontent.com/u/1120?v=4",
+    "cargo": "Militar da Marinha",
+    "empresa": "Costa Sales e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "CI/CD",
+      "Ruby on Rails",
+      "C#",
+      "Swift",
+      "Laravel",
+      "Docker",
+      "Flutter",
+      "GCP"
+    ],
+    "softskills": [
+      "Organização",
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "SegInfo Brasil",
+      "Tech Manager de Resultados",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "Cavalcanti",
+      "estado": "PI"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/stephanyrodrigues",
+      "github": "https://github.com/stephany120",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Milena Lopes",
+    "foto": "https://avatars.githubusercontent.com/u/1121?v=4",
+    "cargo": "Engenheiro mecânico",
+    "empresa": "Rezende",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Java",
+      "React",
+      "AWS",
+      "Vue.js",
+      "Ruby on Rails",
+      "Swift",
+      ".NET"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "SegInfo Brasil",
+      "Kotlin Devs BR",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Almeida das Pedras",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/milenalopes",
+      "github": "https://github.com/milena121",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Eduardo Caldeira",
+    "foto": "https://avatars.githubusercontent.com/u/1122?v=4",
+    "cargo": "Alergologista",
+    "empresa": "Novaes Alves Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Swift",
+      "Java",
+      "Kubernetes",
+      "Flutter",
+      "GraphQL"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Visão estratégica",
+      "Liderança",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "DevOps Community",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Dias",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/eduardocaldeira",
+      "github": "https://github.com/eduardo122",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luigi Melo",
+    "foto": "https://avatars.githubusercontent.com/u/1123?v=4",
+    "cargo": "Mágico",
+    "empresa": "Silva",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "GraphQL",
+      "GCP",
+      "Swift",
+      "React"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Organização",
+      "Empatia",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "da Cruz do Amparo",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/luigimelo",
+      "github": "https://github.com/luigi123",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Heloísa Dias",
+    "foto": "https://avatars.githubusercontent.com/u/1124?v=4",
+    "cargo": "Designer de interiores",
+    "empresa": "Silva S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Vue.js",
+      "MongoDB",
+      "Swift",
+      "React",
+      "Ruby on Rails",
+      "PHP",
+      "Kubernetes"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Freitas do Amparo",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/heloísadias",
+      "github": "https://github.com/heloísa124",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Bryan Pinto",
+    "foto": "https://avatars.githubusercontent.com/u/1125?v=4",
+    "cargo": "Controlador de vôo",
+    "empresa": "Cardoso Rodrigues S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Python",
+      "Vue.js",
+      "PostgreSQL",
+      "C#",
+      "GraphQL",
+      "GCP"
+    ],
+    "softskills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Empatia",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Carvalho",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/bryanpinto",
+      "github": "https://github.com/bryan125",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luna Cunha",
+    "foto": "https://avatars.githubusercontent.com/u/1126?v=4",
+    "cargo": "Tecnólogo em produção de bebidas",
+    "empresa": "Azevedo",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "SQL",
+      "Laravel",
+      "GCP",
+      "JavaScript"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Adaptabilidade",
+      "Comunicação",
+      "Organização",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "UX/UI Brasil",
+      "Tech Manager de Resultados",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Fogaça do Norte",
+      "estado": "SC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/lunacunha",
+      "github": "https://github.com/luna126",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Davi Lucas Pinto",
+    "foto": "https://avatars.githubusercontent.com/u/1127?v=4",
+    "cargo": "Agente de combate à endemias",
+    "empresa": "Nogueira - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PyTorch",
+      ".NET",
+      "C#",
+      "Azure",
+      "Flutter"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "FrontEnd Brasil",
+      "Data Science BR",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Martins",
+      "estado": "PI"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/davilucaspinto",
+      "github": "https://github.com/davi127",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Caio Nunes",
+    "foto": "https://avatars.githubusercontent.com/u/1128?v=4",
+    "cargo": "Cinematográfo",
+    "empresa": "Novaes",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      ".NET",
+      "Python",
+      "Azure",
+      "Flutter",
+      "C#",
+      "Kotlin"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Criatividade",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Lopes do Campo",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/caionunes",
+      "github": "https://github.com/caio128",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Vicente Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1129?v=4",
+    "cargo": "Ufólogo",
+    "empresa": "Caldeira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PyTorch",
+      "Ruby on Rails",
+      "Python",
+      "Java",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Monteiro",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vicentealmeida",
+      "github": "https://github.com/vicente129",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Srta. Pietra Duarte",
+    "foto": "https://avatars.githubusercontent.com/u/1130?v=4",
+    "cargo": "Ceramista",
+    "empresa": "das Neves",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TypeScript",
+      "GraphQL",
+      "PyTorch",
+      "PHP"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "Nascimento",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/srta.pietraduarte",
+      "github": "https://github.com/srta.130",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Isabel Pereira",
+    "foto": "https://avatars.githubusercontent.com/u/1131?v=4",
+    "cargo": "Confeiteiro",
+    "empresa": "Moura",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      ".NET",
+      "Angular",
+      "GraphQL",
+      "Laravel",
+      "React",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Liderança",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Vieira Alegre",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/isabelpereira",
+      "github": "https://github.com/isabel131",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Kaique Melo",
+    "foto": "https://avatars.githubusercontent.com/u/1132?v=4",
+    "cargo": "Produtor de multimídia",
+    "empresa": "Nascimento",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PHP",
+      "Spring Boot",
+      "GCP",
+      "SQL",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Comunicação",
+      "Empatia",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "Vieira Paulista",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/kaiquemelo",
+      "github": "https://github.com/kaique132",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sr. Enzo da Cruz",
+    "foto": "https://avatars.githubusercontent.com/u/1133?v=4",
+    "cargo": "Pesquisador",
+    "empresa": "Lima",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      ".NET",
+      "GCP",
+      "Ruby on Rails",
+      "Azure",
+      "Java",
+      "Docker"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Empatia",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "Node.js Brasil",
+      "SegInfo Brasil",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Vieira do Sul",
+      "estado": "PA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sr.enzodacruz",
+      "github": "https://github.com/sr.133",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Olivia Souza",
+    "foto": "https://avatars.githubusercontent.com/u/1134?v=4",
+    "cargo": "Tecnólogo em rochas ornamentais",
+    "empresa": "Santos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Java",
+      "Laravel",
+      "Flutter",
+      "GCP",
+      "Kubernetes",
+      "C#"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Liderança",
+      "Resolução de problemas",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "Python Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Porto",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/oliviasouza",
+      "github": "https://github.com/olivia134",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Julia Barros",
+    "foto": "https://avatars.githubusercontent.com/u/1135?v=4",
+    "cargo": "Transcritor",
+    "empresa": "Moraes",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Python",
+      "Kotlin",
+      "Vue.js",
+      "Azure"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Liderança",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "DevOps Community",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Rezende do Sul",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariajuliabarros",
+      "github": "https://github.com/maria135",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Lorenzo da Paz",
+    "foto": "https://avatars.githubusercontent.com/u/1136?v=4",
+    "cargo": "Balconista",
+    "empresa": "Mendes e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "GCP",
+      "AWS",
+      "C#",
+      "Node.js",
+      "PyTorch",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Adaptabilidade",
+      "Organização"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "Vieira do Norte",
+      "estado": "CE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/lorenzodapaz",
+      "github": "https://github.com/lorenzo136",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Antônio da Cunha",
+    "foto": "https://avatars.githubusercontent.com/u/1137?v=4",
+    "cargo": "Optometrista",
+    "empresa": "Moura Nunes - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Swift",
+      "Kubernetes",
+      "PHP",
+      "React"
+    ],
+    "softskills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Visão estratégica",
+      "Organização"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "DevOps Community",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Gonçalves de Goiás",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/antôniodacunha",
+      "github": "https://github.com/antônio137",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Eduarda Nascimento",
+    "foto": "https://avatars.githubusercontent.com/u/1138?v=4",
+    "cargo": "Agente funerário",
+    "empresa": "da Costa",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Swift",
+      "PyTorch",
+      "Vue.js",
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "CI/CD"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Liderança",
+      "Criatividade",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "UX/UI Brasil",
+      "Data Science BR",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Carvalho de Souza",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariaeduardanascimento",
+      "github": "https://github.com/maria138",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dra. Beatriz Caldeira",
+    "foto": "https://avatars.githubusercontent.com/u/1139?v=4",
+    "cargo": "Triatleta",
+    "empresa": "Correia",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kubernetes",
+      "Azure",
+      "GraphQL",
+      "Node.js",
+      "Spring Boot"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Visão estratégica",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "Santos Grande",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dra.beatrizcaldeira",
+      "github": "https://github.com/dra.139",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Isabel da Conceição",
+    "foto": "https://avatars.githubusercontent.com/u/1140?v=4",
+    "cargo": "Degustador",
+    "empresa": "Cardoso",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "Java",
+      "Vue.js",
+      "Ruby on Rails",
+      "Docker",
+      "PyTorch",
+      "Angular"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Organização",
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Lima de Pinto",
+      "estado": "MS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/isabeldaconceição",
+      "github": "https://github.com/isabel140",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Clara Monteiro",
+    "foto": "https://avatars.githubusercontent.com/u/1141?v=4",
+    "cargo": "Cientista social",
+    "empresa": "Cunha S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Ruby on Rails",
+      "Kotlin",
+      "TypeScript",
+      "React",
+      ".NET"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Visão estratégica",
+      "Adaptabilidade",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "DevOps Community",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Vieira do Campo",
+      "estado": "MT"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariaclaramonteiro",
+      "github": "https://github.com/maria141",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sophia da Luz",
+    "foto": "https://avatars.githubusercontent.com/u/1142?v=4",
+    "cargo": "Torneiro mecânico",
+    "empresa": "Fogaça",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Docker",
+      "Angular",
+      "PyTorch",
+      "PostgreSQL",
+      "React",
+      ".NET"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Comunicação",
+      "Criatividade",
+      "Organização"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Monteiro",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sophiadaluz",
+      "github": "https://github.com/sophia142",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Milena Barros",
+    "foto": "https://avatars.githubusercontent.com/u/1143?v=4",
+    "cargo": "Zootecnista",
+    "empresa": "Fernandes",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "SQL",
+      "AWS",
+      "PHP",
+      "React"
+    ],
+    "softskills": [
+      "Organização",
+      "Empatia",
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "Python Brasil",
+      "Cloud Native Brasil",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Silva do Sul",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/milenabarros",
+      "github": "https://github.com/milena143",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Carolina Viana",
+    "foto": "https://avatars.githubusercontent.com/u/1144?v=4",
+    "cargo": "Empresário",
+    "empresa": "Sales",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Ruby on Rails",
+      "React",
+      "Spring Boot",
+      "C#",
+      "JavaScript",
+      "GraphQL",
+      "Java",
+      "PHP"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Criatividade",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "AI Brasil",
+      "Node.js Brasil",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Cardoso",
+      "estado": "MG"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/carolinaviana",
+      "github": "https://github.com/carolina144",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Manuela Gomes",
+    "foto": "https://avatars.githubusercontent.com/u/1145?v=4",
+    "cargo": "Ombudsman",
+    "empresa": "Ramos Viana e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "JavaScript",
+      "CI/CD",
+      "C#",
+      "PyTorch",
+      "Ruby on Rails",
+      "GraphQL",
+      "SQL"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Comunicação",
+      "Visão estratégica",
+      "Empatia",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "DevOps Community",
+      "Tech Manager de Resultados",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Teixeira",
+      "estado": "PE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/manuelagomes",
+      "github": "https://github.com/manuela145",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Valentina Aragão",
+    "foto": "https://avatars.githubusercontent.com/u/1146?v=4",
+    "cargo": "Agente de viagens",
+    "empresa": "Gomes Castro - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Docker",
+      "CI/CD",
+      "Kubernetes",
+      "SQL",
+      "GraphQL"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "React Community",
+      "Cloud Native Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "da Cunha de Moreira",
+      "estado": "SC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/valentinaaragão",
+      "github": "https://github.com/valentina146",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Francisco Freitas",
+    "foto": "https://avatars.githubusercontent.com/u/1147?v=4",
+    "cargo": "Manobrista",
+    "empresa": "Barbosa",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TensorFlow",
+      "Node.js",
+      "PostgreSQL",
+      "TypeScript"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "da Rosa",
+      "estado": "PI"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/franciscofreitas",
+      "github": "https://github.com/francisco147",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Lucca da Cunha",
+    "foto": "https://avatars.githubusercontent.com/u/1148?v=4",
+    "cargo": "Empacotador",
+    "empresa": "da Rocha Gonçalves e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Spring Boot",
+      "Ruby on Rails",
+      "GCP",
+      "AWS"
+    ],
+    "softskills": [
+      "Visão estratégica",
+      "Adaptabilidade",
+      "Resolução de problemas",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "FrontEnd Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Correia do Norte",
+      "estado": "MT"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/luccadacunha",
+      "github": "https://github.com/lucca148",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sra. Bruna Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1149?v=4",
+    "cargo": "Zootecnista",
+    "empresa": "Teixeira",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "Kubernetes",
+      "Vue.js",
+      "Docker",
+      "PyTorch",
+      "Python"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Visão estratégica",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Nogueira do Norte",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sra.brunaalmeida",
+      "github": "https://github.com/sra.149",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Giovanna Cavalcanti",
+    "foto": "https://avatars.githubusercontent.com/u/1150?v=4",
+    "cargo": "Copeiro",
+    "empresa": "Fernandes",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      ".NET",
+      "C#",
+      "PyTorch",
+      "JavaScript",
+      "React",
+      "Java",
+      "Node.js",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Empatia",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Python Brasil",
+      "React Community",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "da Costa de Minas",
+      "estado": "MS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/giovannacavalcanti",
+      "github": "https://github.com/giovanna150",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sr. Rodrigo Costa",
+    "foto": "https://avatars.githubusercontent.com/u/1151?v=4",
+    "cargo": "Infectologista",
+    "empresa": "Silveira Lima - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "React",
+      "Java",
+      "PHP",
+      ".NET",
+      "SQL",
+      "Node.js",
+      "Kubernetes",
+      "Laravel"
+    ],
+    "softskills": [
+      "Liderança",
+      "Visão estratégica",
+      "Adaptabilidade",
+      "Resolução de problemas",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Moraes",
+      "estado": "PI"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sr.rodrigocosta",
+      "github": "https://github.com/sr.151",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sra. Alexia Moreira",
+    "foto": "https://avatars.githubusercontent.com/u/1152?v=4",
+    "cargo": "Engenheiro civil",
+    "empresa": "Martins",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PHP",
+      "Node.js",
+      "PyTorch",
+      "Java"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Trabalho em equipe",
+      "Visão estratégica",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "SegInfo Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Araújo",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sra.alexiamoreira",
+      "github": "https://github.com/sra.152",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Luiza Nascimento",
+    "foto": "https://avatars.githubusercontent.com/u/1153?v=4",
+    "cargo": "Mensageiro",
+    "empresa": "Cunha Souza - EI",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Angular",
+      "Flutter",
+      "MongoDB",
+      "PHP"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Liderança",
+      "Resolução de problemas",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "SegInfo Brasil",
+      "AI Brasil",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "da Mota da Serra",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/marialuizanascimento",
+      "github": "https://github.com/maria153",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Pietra da Costa",
+    "foto": "https://avatars.githubusercontent.com/u/1154?v=4",
+    "cargo": "Profissional de linguística",
+    "empresa": "Campos - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "TypeScript",
+      "PHP"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Proatividade",
+      "Criatividade",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "Kotlin Devs BR",
+      "UX/UI Brasil",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Costa de Pereira",
+      "estado": "MG"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/pietradacosta",
+      "github": "https://github.com/pietra154",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Rodrigo Novaes",
+    "foto": "https://avatars.githubusercontent.com/u/1155?v=4",
+    "cargo": "Produtor editorial",
+    "empresa": "Barros",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "AWS",
+      "SQL",
+      "Flutter",
+      "GraphQL",
+      "Swift",
+      "JavaScript",
+      ".NET",
+      "Spring Boot"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "comunidades": [
+      "React Community",
+      "Kotlin Devs BR",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Barbosa",
+      "estado": "DF"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/rodrigonovaes",
+      "github": "https://github.com/rodrigo155",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sr. Enzo Costela",
+    "foto": "https://avatars.githubusercontent.com/u/1156?v=4",
+    "cargo": "Designer de produto ou desenhista industrial",
+    "empresa": "Aragão",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Vue.js",
+      "Angular",
+      "GraphQL",
+      "Laravel",
+      ".NET",
+      "Java",
+      "GCP"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Gonçalves",
+      "estado": "MS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sr.enzocostela",
+      "github": "https://github.com/sr.156",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Marina Correia",
+    "foto": "https://avatars.githubusercontent.com/u/1157?v=4",
+    "cargo": "Engenheiro industrial",
+    "empresa": "da Luz - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TypeScript",
+      "C#",
+      "Python",
+      "Laravel",
+      "GCP",
+      "Ruby on Rails",
+      "Java",
+      "Vue.js"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "React Community",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "da Rosa",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/marinacorreia",
+      "github": "https://github.com/marina157",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Pedro Miguel Cunha",
+    "foto": "https://avatars.githubusercontent.com/u/1158?v=4",
+    "cargo": "Estoquista",
+    "empresa": "Nunes da Luz - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Angular",
+      "JavaScript",
+      "TensorFlow",
+      "SQL",
+      "Laravel",
+      "Spring Boot"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Liderança",
+      "Resolução de problemas",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "React Community",
+      "FrontEnd Brasil",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Viana",
+      "estado": "TO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/pedromiguelcunha",
+      "github": "https://github.com/pedro158",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Bruno Lima",
+    "foto": "https://avatars.githubusercontent.com/u/1159?v=4",
+    "cargo": "Marketeiro",
+    "empresa": "Araújo Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Python",
+      "Swift",
+      "Azure",
+      "AWS",
+      "React",
+      "Kotlin",
+      ".NET"
+    ],
+    "softskills": [
+      "Organização",
+      "Liderança",
+      "Proatividade",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Cloud Native Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Pinto",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/brunolima",
+      "github": "https://github.com/bruno159",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Rafael Azevedo",
+    "foto": "https://avatars.githubusercontent.com/u/1160?v=4",
+    "cargo": "Pedagogo",
+    "empresa": "Caldeira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PyTorch",
+      "AWS",
+      "C#",
+      "JavaScript",
+      "Java"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Organização"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "UX/UI Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Ribeiro",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/rafaelazevedo",
+      "github": "https://github.com/rafael160",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Eduarda Pires",
+    "foto": "https://avatars.githubusercontent.com/u/1161?v=4",
+    "cargo": "Sargento",
+    "empresa": "Azevedo",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "GraphQL",
+      "TensorFlow",
+      "Java",
+      "Python",
+      "Azure"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Criatividade",
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Duarte de Porto",
+      "estado": "SE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariaeduardapires",
+      "github": "https://github.com/maria161",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Clara Santos",
+    "foto": "https://avatars.githubusercontent.com/u/1162?v=4",
+    "cargo": "Produtor de audio visual",
+    "empresa": "Ferreira Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Vue.js",
+      "Ruby on Rails",
+      "JavaScript",
+      "AWS",
+      "Swift"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Visão estratégica",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "DevOps Community",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Pires",
+      "estado": "TO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/clarasantos",
+      "github": "https://github.com/clara162",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Juan Alves",
+    "foto": "https://avatars.githubusercontent.com/u/1163?v=4",
+    "cargo": "Engenheiro físico",
+    "empresa": "Peixoto Campos - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "JavaScript",
+      "PyTorch",
+      "AWS",
+      "Docker",
+      "CI/CD",
+      "C#",
+      "Swift"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Python Brasil",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Ribeiro",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/juanalves",
+      "github": "https://github.com/juan163",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Emanuelly Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1164?v=4",
+    "cargo": "Xilógrafo",
+    "empresa": "Campos Melo - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Angular",
+      "Spring Boot",
+      "PostgreSQL",
+      "PHP",
+      "JavaScript",
+      "Flutter",
+      "CI/CD"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Criatividade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Ribeiro da Serra",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/emanuellyalmeida",
+      "github": "https://github.com/emanuelly164",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Amanda Novaes",
+    "foto": "https://avatars.githubusercontent.com/u/1165?v=4",
+    "cargo": "Procurador de justiça",
+    "empresa": "Peixoto",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kubernetes",
+      "SQL",
+      "PostgreSQL",
+      "C#",
+      "Spring Boot",
+      "Docker",
+      "GraphQL",
+      "Node.js"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Proatividade",
+      "Liderança",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Tech Manager de Resultados",
+      "FrontEnd Brasil",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Campos",
+      "estado": "AM"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/amandanovaes",
+      "github": "https://github.com/amanda165",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ana Beatriz Ferreira",
+    "foto": "https://avatars.githubusercontent.com/u/1166?v=4",
+    "cargo": "Tosador",
+    "empresa": "da Costa Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Laravel",
+      "Python",
+      "Angular",
+      "TensorFlow",
+      "SQL",
+      "CI/CD"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Visão estratégica",
+      "Empatia",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "Python Brasil",
+      "Node.js Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "da Mota Grande",
+      "estado": "RS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/anabeatrizferreira",
+      "github": "https://github.com/ana166",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luiz Gustavo da Conceição",
+    "foto": "https://avatars.githubusercontent.com/u/1167?v=4",
+    "cargo": "Chaveiro",
+    "empresa": "Costela",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Node.js",
+      "JavaScript",
+      "Swift",
+      "PostgreSQL",
+      "Azure",
+      "CI/CD",
+      "TypeScript",
+      "Docker"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Empatia",
+      "Visão estratégica",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Almeida de Dias",
+      "estado": "RS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/luizgustavodaconceição",
+      "github": "https://github.com/luiz167",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sophie Mendes",
+    "foto": "https://avatars.githubusercontent.com/u/1168?v=4",
+    "cargo": "Endocrinologista",
+    "empresa": "Duarte Barros - ME",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Docker",
+      "Kubernetes",
+      "SQL",
+      "CI/CD",
+      "C#"
+    ],
+    "softskills": [
+      "Empatia",
+      "Comunicação",
+      "Pensamento crítico",
+      "Proatividade",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "React Community",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "Vieira",
+      "estado": "SP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sophiemendes",
+      "github": "https://github.com/sophie168",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Yago Novaes",
+    "foto": "https://avatars.githubusercontent.com/u/1169?v=4",
+    "cargo": "Aviador",
+    "empresa": "Aragão",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Angular",
+      "Swift",
+      "Kubernetes",
+      "React",
+      "JavaScript",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Resolução de problemas",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Node.js Brasil",
+      "AI Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Sales",
+      "estado": "RO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/yagonovaes",
+      "github": "https://github.com/yago169",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Cauã da Cruz",
+    "foto": "https://avatars.githubusercontent.com/u/1170?v=4",
+    "cargo": "Urologista",
+    "empresa": "Monteiro - ME",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TensorFlow",
+      ".NET",
+      "SQL",
+      "Spring Boot",
+      "Node.js",
+      "Vue.js"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Empatia",
+      "Resolução de problemas",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "AI Brasil",
+      "Cloud Native Brasil",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Ramos das Flores",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/cauãdacruz",
+      "github": "https://github.com/cauã170",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Emanuelly Melo",
+    "foto": "https://avatars.githubusercontent.com/u/1171?v=4",
+    "cargo": "Moldador",
+    "empresa": "Ramos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Vue.js",
+      "Spring Boot",
+      "Ruby on Rails",
+      "Kubernetes",
+      "JavaScript",
+      "GraphQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "DevOps Community",
+      "UX/UI Brasil",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "Melo",
+      "estado": "PI"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/emanuellymelo",
+      "github": "https://github.com/emanuelly171",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Vicente Cunha",
+    "foto": "https://avatars.githubusercontent.com/u/1172?v=4",
+    "cargo": "Assistente de produção",
+    "empresa": "Santos S.A.",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "GCP",
+      "C#",
+      "TensorFlow",
+      "Node.js"
+    ],
+    "softskills": [
+      "Organização",
+      "Proatividade",
+      "Pensamento crítico",
+      "Criatividade",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "Tech Manager de Resultados",
+      "Rocketseat",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "das Neves de Nogueira",
+      "estado": "AM"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vicentecunha",
+      "github": "https://github.com/vicente172",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Amanda Costela",
+    "foto": "https://avatars.githubusercontent.com/u/1173?v=4",
+    "cargo": "Veterinário",
+    "empresa": "Aragão e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Node.js",
+      "Python",
+      "Spring Boot",
+      "Azure",
+      "TypeScript",
+      "CI/CD",
+      "Kubernetes"
+    ],
+    "softskills": [
+      "Organização",
+      "Comunicação",
+      "Empatia",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "Cloud Native Brasil",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Fernandes",
+      "estado": "TO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/amandacostela",
+      "github": "https://github.com/amanda173",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dr. Augusto Dias",
+    "foto": "https://avatars.githubusercontent.com/u/1174?v=4",
+    "cargo": "Prensista",
+    "empresa": "Gomes Cardoso - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Java",
+      "SQL",
+      "Docker",
+      ".NET",
+      "Kotlin"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Proatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Lima",
+      "estado": "AP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dr.augustodias",
+      "github": "https://github.com/dr.174",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Bryan da Conceição",
+    "foto": "https://avatars.githubusercontent.com/u/1175?v=4",
+    "cargo": "Gerente de riscos em seguros",
+    "empresa": "Cardoso da Luz S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PHP",
+      "Ruby on Rails",
+      "JavaScript",
+      "SQL",
+      "C#",
+      "PostgreSQL",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Liderança",
+      "Organização",
+      "Proatividade",
+      "Criatividade"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Correia Paulista",
+      "estado": "MA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/bryandaconceição",
+      "github": "https://github.com/bryan175",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Isaac Fogaça",
+    "foto": "https://avatars.githubusercontent.com/u/1176?v=4",
+    "cargo": "Soldador",
+    "empresa": "Ferreira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "JavaScript",
+      "Docker",
+      ".NET",
+      "Kubernetes",
+      "Laravel",
+      "PHP",
+      "PostgreSQL",
+      "TypeScript"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Comunicação",
+      "Criatividade",
+      "Visão estratégica",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "DevOps Community",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Gonçalves do Amparo",
+      "estado": "MT"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/isaacfogaça",
+      "github": "https://github.com/isaac176",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Davi Lucas Viana",
+    "foto": "https://avatars.githubusercontent.com/u/1177?v=4",
+    "cargo": "Engenheiro têxtil",
+    "empresa": "Costa",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "Vue.js",
+      "React",
+      "MongoDB",
+      "PHP",
+      "C#",
+      "Kotlin",
+      "Ruby on Rails"
+    ],
+    "softskills": [
+      "Organização",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "SegInfo Brasil",
+      "Python Brasil",
+      "Tech Manager de Resultados"
+    ],
+    "local": {
+      "cidade": "Ramos dos Dourados",
+      "estado": "GO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/davilucasviana",
+      "github": "https://github.com/davi177",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Cauã Farias",
+    "foto": "https://avatars.githubusercontent.com/u/1178?v=4",
+    "cargo": "Empacotador",
+    "empresa": "Pinto e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "AWS",
+      "Laravel",
+      "Angular",
+      "React",
+      "PostgreSQL",
+      "Ruby on Rails",
+      "SQL"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Criatividade",
+      "Visão estratégica",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Data Science BR",
+      "SegInfo Brasil"
+    ],
+    "local": {
+      "cidade": "Pereira da Serra",
+      "estado": "MS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/cauãfarias",
+      "github": "https://github.com/cauã178",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Davi Luiz da Luz",
+    "foto": "https://avatars.githubusercontent.com/u/1179?v=4",
+    "cargo": "Reumatologista",
+    "empresa": "das Neves Caldeira Ltda.",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "Angular",
+      "C#",
+      "Kotlin",
+      "Ruby on Rails",
+      "PyTorch",
+      "Python",
+      "Java"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Adaptabilidade",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "Python Brasil",
+      "Kotlin Devs BR",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Azevedo de Gomes",
+      "estado": "AM"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/daviluizdaluz",
+      "github": "https://github.com/davi179",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Heitor Barros",
+    "foto": "https://avatars.githubusercontent.com/u/1180?v=4",
+    "cargo": "Naturólogo",
+    "empresa": "Novaes Ltda.",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Spring Boot",
+      "Python",
+      ".NET",
+      "PHP",
+      "Docker",
+      "Laravel"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Empatia",
+      "Trabalho em equipe",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "UX/UI Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Cunha",
+      "estado": "MS"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/heitorbarros",
+      "github": "https://github.com/heitor180",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luna Carvalho",
+    "foto": "https://avatars.githubusercontent.com/u/1181?v=4",
+    "cargo": "Instrumentista musical",
+    "empresa": "Pereira",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kotlin",
+      "React",
+      "AWS",
+      "TensorFlow",
+      "JavaScript",
+      "Azure",
+      "Java",
+      "PHP"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Empatia",
+      "Resolução de problemas",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Kotlin Devs BR",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Moreira",
+      "estado": "RR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/lunacarvalho",
+      "github": "https://github.com/luna181",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Luiza Oliveira",
+    "foto": "https://avatars.githubusercontent.com/u/1182?v=4",
+    "cargo": "Naturólogo",
+    "empresa": "Ribeiro",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "MongoDB",
+      "TensorFlow",
+      "PostgreSQL"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "AI Brasil",
+      "Node.js Brasil",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Costa do Galho",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/luizaoliveira",
+      "github": "https://github.com/luiza182",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Levi Cardoso",
+    "foto": "https://avatars.githubusercontent.com/u/1183?v=4",
+    "cargo": "Técnico tributarista",
+    "empresa": "da Cunha",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TensorFlow",
+      "Swift",
+      "MongoDB",
+      "React",
+      "PHP"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "Python Brasil",
+      "Tech Manager de Resultados",
+      "AI Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Oliveira do Galho",
+      "estado": "PR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/levicardoso",
+      "github": "https://github.com/levi183",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Dr. Emanuel Barbosa",
+    "foto": "https://avatars.githubusercontent.com/u/1184?v=4",
+    "cargo": "Juiz de direito",
+    "empresa": "Barros Cardoso S.A.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "PyTorch",
+      "Spring Boot",
+      ".NET",
+      "PostgreSQL",
+      "C#",
+      "Swift"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Organização",
+      "Resolução de problemas",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "Open Source Brasil",
+      "SegInfo Brasil",
+      "Rocketseat"
+    ],
+    "local": {
+      "cidade": "Nogueira",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/dr.emanuelbarbosa",
+      "github": "https://github.com/dr.184",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "João Miguel da Mata",
+    "foto": "https://avatars.githubusercontent.com/u/1185?v=4",
+    "cargo": "Designer de moda",
+    "empresa": "Nogueira Jesus - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      ".NET",
+      "Kubernetes",
+      "Docker",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Organização",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "DevOps Community",
+      "Tech Manager de Resultados",
+      "Cloud Native Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Ramos Alegre",
+      "estado": "BA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/joãomigueldamata",
+      "github": "https://github.com/joão185",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Isaac Rodrigues",
+    "foto": "https://avatars.githubusercontent.com/u/1186?v=4",
+    "cargo": "Webmaster",
+    "empresa": "da Rocha",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Flutter",
+      "TensorFlow",
+      "Angular",
+      "Vue.js",
+      "GCP",
+      "Laravel",
+      "Python",
+      "C#"
+    ],
+    "softskills": [
+      "Empatia",
+      "Visão estratégica",
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Node.js Brasil",
+      "Open Source Brasil",
+      "FrontEnd Brasil"
+    ],
+    "local": {
+      "cidade": "Nunes",
+      "estado": "PE"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/isaacrodrigues",
+      "github": "https://github.com/isaac186",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Sofia Rodrigues",
+    "foto": "https://avatars.githubusercontent.com/u/1187?v=4",
+    "cargo": "Cumim",
+    "empresa": "Rodrigues S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "C#",
+      "Spring Boot",
+      "Python",
+      "Laravel",
+      "TypeScript",
+      "Java"
+    ],
+    "softskills": [
+      "Resolução de problemas",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "Cloud Native Brasil",
+      "DevOps Community",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Pereira Paulista",
+      "estado": "MA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/sofiarodrigues",
+      "github": "https://github.com/sofia187",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Maria Vitória Porto",
+    "foto": "https://avatars.githubusercontent.com/u/1188?v=4",
+    "cargo": "Capoeirista",
+    "empresa": "Peixoto Ltda.",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "TypeScript",
+      "Laravel",
+      ".NET",
+      "Ruby on Rails"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Comunicação",
+      "Adaptabilidade",
+      "Empatia"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "Tech Manager de Resultados",
+      "DevOps Community"
+    ],
+    "local": {
+      "cidade": "da Costa dos Dourados",
+      "estado": "AP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/mariavitóriaporto",
+      "github": "https://github.com/maria188",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Calebe da Conceição",
+    "foto": "https://avatars.githubusercontent.com/u/1189?v=4",
+    "cargo": "Consultor de radiestesia",
+    "empresa": "da Rocha",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Azure",
+      "PHP",
+      "Node.js",
+      "Kubernetes",
+      "PostgreSQL",
+      "PyTorch",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Proatividade",
+      "Organização",
+      "Pensamento crítico"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Node.js Brasil"
+    ],
+    "local": {
+      "cidade": "Rocha",
+      "estado": "MA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/calebedaconceição",
+      "github": "https://github.com/calebe189",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Thomas Ramos",
+    "foto": "https://avatars.githubusercontent.com/u/1190?v=4",
+    "cargo": "Peixeiro",
+    "empresa": "da Luz",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Spring Boot",
+      "Azure",
+      "PHP",
+      "Ruby on Rails"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Adaptabilidade",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "FrontEnd Brasil",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Vieira",
+      "estado": "AM"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/thomasramos",
+      "github": "https://github.com/thomas190",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Leandro da Costa",
+    "foto": "https://avatars.githubusercontent.com/u/1191?v=4",
+    "cargo": "Sexólogo",
+    "empresa": "Porto",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Kotlin",
+      "Node.js",
+      "Java",
+      "PostgreSQL",
+      "PHP",
+      "Docker",
+      "CI/CD",
+      "Swift"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Resolução de problemas",
+      "Criatividade",
+      "Proatividade"
+    ],
+    "comunidades": [
+      "Tech Manager de Resultados",
+      "Open Source Brasil"
+    ],
+    "local": {
+      "cidade": "Costela do Oeste",
+      "estado": "RO"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/leandrodacosta",
+      "github": "https://github.com/leandro191",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ana Lívia da Conceição",
+    "foto": "https://avatars.githubusercontent.com/u/1192?v=4",
+    "cargo": "Revendedor",
+    "empresa": "da Costa",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "React",
+      "Docker",
+      "Vue.js",
+      "Angular",
+      "SQL"
+    ],
+    "softskills": [
+      "Criatividade",
+      "Adaptabilidade",
+      "Empatia",
+      "Trabalho em equipe"
+    ],
+    "comunidades": [
+      "Cloud Native Brasil",
+      "Rocketseat",
+      "Python Brasil",
+      "AI Brasil"
+    ],
+    "local": {
+      "cidade": "Fernandes",
+      "estado": "RN"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/analíviadaconceição",
+      "github": "https://github.com/ana192",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Gustavo Henrique Rocha",
+    "foto": "https://avatars.githubusercontent.com/u/1193?v=4",
+    "cargo": "Peixeiro",
+    "empresa": "Pereira Gonçalves e Filhos",
+    "segmento": "Tecnologia",
+    "status": "Contratando",
+    "hardskills": [
+      "Vue.js",
+      "Ruby on Rails",
+      "Java",
+      "JavaScript",
+      "React",
+      "TypeScript"
+    ],
+    "softskills": [
+      "Empatia",
+      "Liderança",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "Python Brasil",
+      "Rocketseat",
+      "Kotlin Devs BR"
+    ],
+    "local": {
+      "cidade": "Campos de Barbosa",
+      "estado": "AC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/gustavohenriquerocha",
+      "github": "https://github.com/gustavo193",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Otávio Gomes",
+    "foto": "https://avatars.githubusercontent.com/u/1194?v=4",
+    "cargo": "Político",
+    "empresa": "Moura Rodrigues - EI",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "Ruby on Rails",
+      "TensorFlow",
+      "Vue.js",
+      "Node.js",
+      "Azure"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Visão estratégica",
+      "Adaptabilidade"
+    ],
+    "comunidades": [
+      "Rocketseat",
+      "Node.js Brasil",
+      "AI Brasil",
+      "UX/UI Brasil"
+    ],
+    "local": {
+      "cidade": "Nascimento das Flores",
+      "estado": "MG"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/otáviogomes",
+      "github": "https://github.com/otávio194",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Valentina da Rocha",
+    "foto": "https://avatars.githubusercontent.com/u/1195?v=4",
+    "cargo": "Peixeiro",
+    "empresa": "Duarte Alves S/A",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "CI/CD",
+      "Ruby on Rails",
+      "Kotlin",
+      "Vue.js",
+      "Angular",
+      "SQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Resolução de problemas",
+      "Visão estratégica"
+    ],
+    "comunidades": [
+      "UX/UI Brasil",
+      "Data Science BR",
+      "Python Brasil",
+      "React Community"
+    ],
+    "local": {
+      "cidade": "Ramos de da Cruz",
+      "estado": "AP"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/valentinadarocha",
+      "github": "https://github.com/valentina195",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Miguel Rezende",
+    "foto": "https://avatars.githubusercontent.com/u/1196?v=4",
+    "cargo": "Letrista",
+    "empresa": "das Neves",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "GraphQL",
+      "React",
+      "Angular",
+      "Java",
+      "PyTorch"
+    ],
+    "softskills": [
+      "Organização",
+      "Liderança",
+      "Comunicação"
+    ],
+    "comunidades": [
+      "SegInfo Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Novaes",
+      "estado": "PA"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/miguelrezende",
+      "github": "https://github.com/miguel196",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Lívia Almeida",
+    "foto": "https://avatars.githubusercontent.com/u/1197?v=4",
+    "cargo": "Otorrinolaringologista",
+    "empresa": "Jesus S.A.",
+    "segmento": "Tecnologia",
+    "status": "Disponível",
+    "hardskills": [
+      "Docker",
+      "PostgreSQL",
+      "Angular",
+      ".NET"
+    ],
+    "softskills": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Resolução de problemas"
+    ],
+    "comunidades": [
+      "FrontEnd Brasil",
+      "Cloud Native Brasil"
+    ],
+    "local": {
+      "cidade": "da Cruz",
+      "estado": "RR"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/líviaalmeida",
+      "github": "https://github.com/lívia197",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Ana Luiza Pires",
+    "foto": "https://avatars.githubusercontent.com/u/1198?v=4",
+    "cargo": "Camelô",
+    "empresa": "Costa Vieira e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "JavaScript",
+      "PostgreSQL",
+      "Vue.js",
+      "Azure",
+      "GCP",
+      "MongoDB"
+    ],
+    "softskills": [
+      "Organização",
+      "Visão estratégica",
+      "Empatia"
+    ],
+    "comunidades": [
+      "Node.js Brasil",
+      "AI Brasil",
+      "UX/UI Brasil",
+      "Python Brasil"
+    ],
+    "local": {
+      "cidade": "Nunes do Campo",
+      "estado": "SC"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/analuizapires",
+      "github": "https://github.com/ana198",
+      "portfolio": ""
+    }
+  },
+  {
+    "nome": "Emanuelly Martins",
+    "foto": "https://avatars.githubusercontent.com/u/1199?v=4",
+    "cargo": "Fundidor",
+    "empresa": "Cardoso e Filhos",
+    "segmento": "Tecnologia",
+    "status": "",
+    "hardskills": [
+      "PHP",
+      "Kubernetes",
+      "Vue.js",
+      "Java",
+      "Spring Boot",
+      "Python",
+      "Ruby on Rails"
+    ],
+    "softskills": [
+      "Organização",
+      "Criatividade",
+      "Comunicação",
+      "Liderança",
+      "Empatia"
+    ],
+    "comunidades": [
+      "React Community",
+      "AI Brasil",
+      "SegInfo Brasil",
+      "Data Science BR"
+    ],
+    "local": {
+      "cidade": "Moreira",
+      "estado": "RJ"
+    },
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/emanuellymartins",
+      "github": "https://github.com/emanuelly199",
+      "portfolio": ""
+    }
+  }
+]

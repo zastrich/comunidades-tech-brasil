@@ -1,0 +1,313 @@
+:root {
+    --bg-color: #282a36;
+    --surface-color: #44475a;
+    --card-bg-color: #343746; /* Cor de card um pouco mais clara */
+    --text-color: #f8f8f2;
+    --text-muted-color: #c5c8d3; /* Cor de texto secundário mais clara */
+    --green: #50fa7b;
+    --purple: #bd93f9;
+    --blue: #8be9fd;
+
+    /* RGB values for glow */
+    --green-rgb: 80, 250, 123;
+    --purple-rgb: 189, 147, 249;
+    --blue-rgb: 139, 233, 253;
+}
+
+:root {
+    --bg-color: #282a36;
+    --surface-color: #44475a;
+    --card-bg-color: #343746; /* Cor de card um pouco mais clara */
+    --text-color: #f8f8f2;
+    --text-muted-color: #c5c8d3; /* Cor de texto secundário mais clara */
+    --green: #50fa7b;
+    --purple: #bd93f9;
+    --blue: #8be9fd;
+
+    /* RGB values for glow */
+    --green-rgb: 80, 250, 123;
+    --purple-rgb: 189, 147, 249;
+    --blue-rgb: 139, 233, 253;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+
+
+#filter-section {
+    background-color: var(--bg-color);
+    border: 1px solid var(--surface-color);
+}
+
+.form-control, .form-select {
+    background-color: var(--surface-color);
+    color: var(--text-color);
+    border-color: var(--surface-color);
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: var(--surface-color);
+    color: var(--text-color);
+    border-color: var(--purple);
+    box-shadow: 0 0 0 0.25rem rgba(189, 147, 249, 0.25);
+}
+
+.profile-card {
+    background-color: var(--card-bg-color);
+    border: 1px solid var(--surface-color);
+    height: 100%;
+    transition: box-shadow 0.3s ease-in-out;
+    position: relative;
+    overflow: hidden; /* Essencial para o badge diagonal */
+}
+
+.profile-card:hover {
+    animation: glow-pulse-blue 2s infinite ease-in-out; /* Default glow */
+}
+
+.profile-card.status-contratando:hover {
+    animation: glow-pulse-purple 2s infinite ease-in-out;
+}
+
+.profile-card.status-disponivel:hover {
+    animation: glow-pulse-green 2s infinite ease-in-out;
+}
+
+@keyframes glow-pulse-purple {
+    0%, 100% { box-shadow: 0 0 5px 0px rgba(var(--purple-rgb), 0.4); }
+    50% { box-shadow: 0 0 12px 3px rgba(var(--purple-rgb), 0.4); }
+}
+
+@keyframes glow-pulse-green {
+    0%, 100% { box-shadow: 0 0 5px 0px rgba(var(--green-rgb), 0.4); }
+    50% { box-shadow: 0 0 12px 3px rgba(var(--green-rgb), 0.4); }
+}
+
+@keyframes glow-pulse-blue {
+    0%, 100% { box-shadow: 0 0 5px 0px rgba(var(--blue-rgb), 0.4); }
+    50% { box-shadow: 0 0 12px 3px rgba(var(--blue-rgb), 0.4); }
+}
+
+.profile-card .card-title,
+.profile-card .card-body > p.w-100.text-center.fw-bold,
+.skills-section strong,
+.communities-section strong {
+    color: var(--text-color);
+}
+
+.photo-wrapper {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 1rem;
+}
+
+.profile-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid var(--surface-color);
+}
+
+.status-contratando .profile-photo {
+    border-color: var(--purple);
+}
+
+.status-disponivel .profile-photo {
+    border-color: var(--green);
+}
+
+.status-badge-corner {
+    position: absolute;
+    top: 18px;
+    right: -35px;
+    transform: rotate(45deg);
+    padding: 5px 40px;
+    background-color: var(--status-color);
+    color: #282a36;
+    font-weight: bold;
+    font-size: 0.8rem;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.status-contratando {
+    --status-color: var(--purple);
+}
+.status-disponivel {
+    --status-color: var(--green);
+}
+
+.skills-list-wrapper {
+    position: relative;
+    overflow: hidden;
+    max-height: 1.6em; /* Ajustado para garantir overflow */
+    transition: max-height 0.3s ease-in-out;
+}
+
+.skills-list-wrapper.expanded {
+    max-height: 200px;
+}
+
+.expand-btn {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(to right, transparent, var(--card-bg-color) 60%); /* Ajustado o gradiente */
+    padding-left: 2rem;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: var(--blue);
+}
+
+.skills-list-wrapper:not(.collapsible) .expand-btn {
+    display: none;
+}
+
+.link-icon {
+    font-size: 1.5rem;
+    margin-right: 0.75rem;
+    color: var(--surface-color);
+    transition: color 0.2s;
+}
+
+.link-icon:hover {
+    color: var(--blue);
+}
+
+.favorite-btn {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 1.5rem;
+    color: var(--surface-color);
+    cursor: pointer;
+    transition: color 0.2s;
+    z-index: 10; /* Garante que esteja acima de outros elementos */
+}
+
+.favorite-btn:hover {
+    color: var(--blue);
+}
+
+.favorite-btn.bi-star-fill {
+    color: var(--purple);
+}
+
+.text-muted {
+    color: var(--text-muted-color) !important;
+}
+
+.badge.bg-secondary {
+    background-color: var(--surface-color) !important;
+    cursor: pointer;
+}
+
+.badge.bg-info {
+    background-color: var(--blue) !important;
+    color: var(--bg-color) !important;
+    cursor: pointer;
+}
+
+footer a {
+    color: var(--text-color);
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+html.noscroll, body.noscroll {
+    overflow: hidden; /* Changed to hidden to remove scrolling */
+    overflow-x: hidden; /* Prevent horizontal scrollbar */
+    padding: 0;
+}
+
+.filter-sidebar {
+    width: 330px;
+    min-width: 330px; /* Ensure it doesn't shrink */
+    height: 100vh; /* Full viewport height */
+    position: fixed; /* Changed to fixed */
+    top: 0; /* Stick to the top */
+    left: 0; /* Stick to the left */
+    padding: 1rem; /* Add some padding */
+    overflow-y: auto; /* Changed to auto to allow scrolling within sidebar */
+    background-color: var(--bg-color); /* Use existing background color */
+    border-right: 1px solid var(--surface-color); /* Use existing border color */
+    z-index: 1000; /* Ensure it stays on top */
+}
+
+.venn-diagram-content {
+    position: fixed; /* Set to fixed */
+    top: 0;
+    left: 330px; /* Start after sidebar */
+    width: calc(100vw - 330px); /* Take remaining width */
+    height: 100vh; /* Take full viewport height */
+    padding: 1rem; /* Add some padding */
+    display: flex; /* Use flexbox for vertical alignment */
+    flex-direction: column; /* Stack children vertically */
+    overflow: hidden; /* Prevent internal scrolling */
+    z-index: 999; /* Lower z-index than sidebar */
+}
+
+/* Adjust main content area to account for the fixed sidebar */
+/* Removed .insights-layout grid properties as content is now fixed */
+
+/* Mobile styles */
+@media (max-width: 767.98px) {
+    body {
+        padding-left: 0; /* Remove padding for mobile */
+    }
+
+    .filter-sidebar {
+        display: none; /* Hide by default */
+        position: fixed; /* Overlay the content */
+        top: 0;
+        right: 0; /* Position to the right */
+        width: 300px; /* Adjust width for mobile if needed */
+        height: 100vh;
+        transition: transform 0.3s ease-in-out;
+        background-color: var(--bg-color); /* Ensure background covers content */
+        padding: 1rem;
+        box-shadow: -5px 0 15px rgba(0, 0, 0, 0.3); /* Add shadow for overlay effect */
+        z-index: 1001; /* Higher than sidebar */
+        overflow-y: auto; /* Allow scrolling within the mobile filter sidebar */
+        left: auto; /* Ensure it's not pushed left */
+    }
+
+    .filter-sidebar.active {
+        display: block; /* Show when active */
+    }
+
+    #filter-toggle-btn {
+        display: block; /* Show on mobile */
+        position: fixed; /* Fixed position */
+        top: 1rem;
+        right: 1rem;
+        z-index: 1002; /* Higher than sidebar */
+    }
+
+    .venn-diagram-content {
+        position: static; /* Reset to static for mobile flow */
+        width: 100vw; /* Take full width */
+        height: 100vh; /* Auto height for content flow */
+        padding-top: 4rem; /* Add padding to avoid content being hidden by button */
+        left: 0; /* Reset left */
+        top: auto; /* Reset top */
+    }
+}
+
+@media (max-width: 1439.98px) {
+    .container {
+        max-width: 100% !important;
+        padding-left: var(--bs-gutter-x, .75rem);
+        padding-right: var(--bs-gutter-x, .75rem);
+    }
+}
+
